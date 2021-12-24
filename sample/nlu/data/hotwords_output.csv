@@ -1,0 +1,619 @@
+raw_value,nlu_skill,nlu_task,nlu_result_is_valid,nlu_result_tts_task_type,nlu_result_tts_text
+精神损失,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,精神损失的意思是由于加害人的侵权行为给受害人造成精神痛苦或使其精神利益受到损害。
+纬编,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,纬编的意思是纬编是以一根或若干根纱线同时沿着织物的横向，循序地由织针形成线圈，并在纵向相互串套成为纬编针织物。
+花着,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+湿纸巾,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,湿纸巾的意思是由纯水、水刺无纺布和丙二醇制成的一种用于擦脸擦手、或皮肤的一种纸巾。
+零售价,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,零售价的意思是零售价格。零售价格是“批发价格”的对称。零星买卖的价格。
+备受欢迎,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+交换生,baike,baike,True,baike,交换生（英文名exchange student）又称学校间学生交流计划，“学生交换”是以提高不同地区、国家人民间的相互理解、尊重，培养青少年的世界观为宗旨的项目。
+早半天儿,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,早半天儿的意思是中午以前；上午。也说早半晌儿。
+片刻不离,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,片刻不离的意思是一会儿也没有离开，形容关系非常密切，一会儿也不忍离开（经常用于形容情人之间或一个人对另一个人的照顾）。
+台式机,baike,baike,False,baike,抱歉，小猴答不上来
+小灵通,baike,baike,True,baike,小灵通: 小灵通是一种个人手持式无线电话系统，目前人们泛指小灵通手机，无线市话（Personal Handy-phone System，中文意为低功率移动电话系统）简称PHS，。属于: 无线市话。
+保暖内衣,baike,baike,False,baike,抱歉，小猴答不上来
+岁岁平安,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+缤纷多彩,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+工作室,baike,baike,False,baike,抱歉，小猴答不上来
+球形,baike,baike,True,baike,球状闪电，俗称滚地雷。通常在雷暴时发生，为圆球形状的闪电。这是一种真实的物理现象。它十分亮，近圆球形，直径约15至40厘米不等。通常仅维持数秒，但也有维持了1至2分钟的记录。颜色除常见的橙色和红色外，还有黄色，紫色，蓝色，亮白色，幽绿色的光环，呈多种多样的色彩。球状闪电的危害较大，它可以随气流起伏在近地空中自在飘飞或逆风而行。它可以通过开着的门窗进入室内，常见的是穿过烟囱后进入建筑物。它甚至可以在导线上滑动，有时会悬停，有时会无声消失，有时又会因为碰到障碍物爆炸。
+可造之才,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+芥蓝菜,baike,baike,True,baike,芥蓝菜: 芥蓝菜 Gailancai 十字花科 芥蓝菜Brassica alboglabra Bailey 【别名】 芥兰、芥兰菜。
+憋尿,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,找到多个biēniào，你想查哪一个呢?
+咸鱼翻身,zh_dic,zh_dic_idiom_lookup.meaning_lookup,True,zh_dic_idiom_lookup.meaning_lookup,咸鱼翻身的意思是咸鱼，喻低贱的人或物。咸鱼翻身，比喻本受轻视的人或物，时来运转，身价不同往昔。
+业内人士,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,业内人士的意思是指从事某一行业的人，因为其从事这个行业，因此比较了解，所以大家通常把那些身在其中，能获得第一手资料的人称为业内人士。
+抵充,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,抵充的意思是(用价值相等的事物)代替；充当。
+视频通话,functional,functional.call,True,functional.call,正在打开电话
+由远及近,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,由远及近的意思是从远处走向（到达）近处。
+分众,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,分众的意思是根据用户需求差异等情况划分人群。
+弱柳扶风,zh_dic,zh_dic_idiom_lookup.meaning_lookup,True,zh_dic_idiom_lookup.meaning_lookup,弱柳扶风的意思是形容女子体态软弱，动作轻柔。
+重创敌军,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,重创敌军的意思是重创指使受重大伤亡，敌军指的就是敌人的军队，重创敌军就是指使敌人的军队受重大伤亡。
+虫蛀,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,虫蛀的意思是被虫子蛀了。
+背字儿,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+查罚,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到查罚这个词，我先把它记下来
+癖爱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到癖爱这个词，我先把它记下来
+大较,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到大较这个词，我先把它记下来
+愈战愈勇,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+大嚷大叫,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+风光秀丽,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+捉虫,baike,baike,True,baike,捉虫一词源于英语BUG，BUG 其意思有虫子的意思，同时有缺点漏洞的意思，常用于形容电影电视节目的穿帮镜头，如为电影找错误称为捉虫。
+蠢物,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,春物 ，宋代， 姜特立 ，一春天富贵，万象物光华。遥想西湖上，风流卖酒家。
+仙姬,baike,baike,False,baike,抱歉，小猴答不上来
+抽紧,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到抽紧这个词，我先把它记下来
+拉皮,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到拉皮这个词，我先把它记下来
+霸王车,baike,baike,True,baike,霸王车: 象棋的另类玩法   也称一统棋  下棋时，红方将自己的一车、双马、双炮去掉，剩下的车具有车、马、炮的走法、吃法。
+宅女,baike,baike,True,baike,指长期足不出户的女性。原指御宅女，既女性御宅族（御宅族与足不出户毫无关系）。
+成品油,baike,baike,True,baike,成品油按照《成品油办法》（商务部令2006年第23号）第四条称成品油是指汽油、煤油、柴油及其他符合国家产品质量标准、具有相同用途的乙醇汽油和生物柴油等替代燃料。 成品油是经过原油的生产加工而成，可分为石油燃料、石油溶剂与化工原料、润滑剂、石蜡、石油沥青、石油焦6类。其中，石油燃料产量最大，约占总产量的90%；各种润滑剂品种最多，产量约占5%。各国都制定了产品标准，以适应生产和使用的需要。 从2013年2月25日零时起上调成品油最高零售价格。按全国平均价计算，每升的零售价格将分别提高0.22元和0.25元。自2013年3月27日零时起，汽、柴油零售价格90号汽油和0号柴油（全国平均）每升分别降低0.23元和0.26元，这是国内成品油价格2013年以来首次下调。2013年11月1日零时起汽、柴油价格每吨均降低75元，测算到零售价格90号汽油和0号柴油（全国平均）每升均降低0.06元，这一降幅创年内新低，也是十年新低。 2020年3月17日，国内成品油价格将大幅下调，触及地板价。
+百分百,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+借壳上市,baike,baike,False,baike,抱歉，小猴答不上来
+得无,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到得无这个词，我先把它记下来
+高迁,baike,baike,False,baike,抱歉，小猴答不上来
+相形之下,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+基民,baike,baike,True,baike,基民，延伸于股民，是诞生于2007年的网络新词。基金持有人被人形象的称为“基民”。比起股市震荡，基金的涨跌对心脏温柔得多。“老股民”纷纷转行为“新基民”，据统计73%的基金投资者为一年以内的新基民。绝大多数的基民买卖基金存在不少误区，比如最喜欢买净值在1元左右的基金，包括新发行、拆分或分红的基金等，以为比照往年基金的高收益，在1元附近买才便宜划算，以后才赚得多。调查结果还显示：91.5%的受访基民没有赎回基金投入股市的意愿，其中北京超过三成的受访基民是因为自己比较喜欢稳健的、风险小的投资方式。
+黄金档,baike,baike,False,baike,抱歉，小猴答不上来
+不婚族,baike,baike,False,baike,抱歉，小猴答不上来
+方便袋,baike,baike,True,baike,方便袋是我们日常购物最普遍的包装物，白色污染的主要构成，主要材料以聚乙烯薄膜为主，也就是我们所说的塑料，所以也叫做塑料袋。
+养殖业,baike,baike,True,baike,养殖业是利用畜禽等已经被人类驯化的动物，或者鹿、麝、狐、貂、水獭、鹌鹑等野生动物的生理机能，通过人工饲养、繁殖，使其将牧草和饲料等植物能转变为动物能，以取得肉、蛋、奶、羊毛、山羊绒、皮张、蚕丝和药材等畜产品的生产部门。
+时光飞逝,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+掐子,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到掐子这个词，我先把它记下来
+成长股,baike,baike,False,baike,抱歉，小猴答不上来
+台命,baike,baike,True,baike,台命: 《玉娇梨》第九回：“老先生台命焉敢有违。
+迷失方向,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+万金之躯,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+锄暴安良,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到锄暴安良这个成语，我先把它记下来
+赌石,baike,baike,True,baike,赌石[珠宝业术语]: 赌石是珠宝业术语，指翡翠在开采出来时，有一层风化皮包裹着，无法知道其内的好坏，须切割后才能知道翡翠的质量。
+问题少年,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,问少年 ，唐代， 白居易 ，千首诗堆青玉案，十分酒写白金盂。回头却问诸年少，作箇狂夫得了无。
+谈婚论嫁,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+癌魔,baike,baike,False,baike,抱歉，小猴答不上来
+翻唱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到翻唱这个词，我先把它记下来
+闹市区,baike,baike,True,baike,闹市区: 中文名称： 闹市区 英文名称： downtown 定义： 泛指城镇中心的商业活动区。
+疯抢,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到疯抢这个词，我先把它记下来
+补钙,baike,baike,False,baike,抱歉，小猴答不上来
+告结,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到告结这个词，我先把它记下来
+酒过三巡,baike,baike,True,baike,酒过三巡是一个汉语词汇，拼音：jiǔ guò sān xún。释义：三并不是指具体的三杯或者三轮。而是指时间长数量多的意思。酒过三巡是指酒已经喝了有一段时间，喝了不少酒了。
+方寸大乱,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+捅咕,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到捅咕这个词，我先把它记下来
+空仓,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到空仓这个词，我先把它记下来
+领跑,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到领跑这个词，我先把它记下来
+溶漾,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到溶漾这个词，我先把它记下来
+高考状元,baike,baike,True,baike,高考状元: “高考状元” 一般指中国大陆地区“全国普通高等学校招生全国统一考试”各省市、自治区和直辖市的高考成绩第一名。
+丑名,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到丑名这个词，我先把它记下来
+电猫,baike,baike,True,baike,电猫: 早期的电猫不仅可以电死老鼠，也会电死猫等小动物，所以后来人们都不怎么用了。注意: 利用时请插在离地面较高的位置。
+盆满钵满,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+电子宠物,baike,baike,True,baike,电子宠物是由电子元件（硬件和软件）构成的电子玩具，现在也指使用电脑或因特网服务器上运行的特定程序。电子宠物具有和真实宠物同样的生命特性。由于具有喂养简单，便携等特性，受到人们的欢迎。 同时电子宠物只能从片面的模仿宠物的部分特征，因此无法取代真实宠物。
+半蹲,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到半蹲这个词，我先把它记下来
+概念车,baike,baike,True,baike,概念车（Concept Car）可以理解为未来汽车，一种介于设想和现实之间的汽车。汽车设计师利用概念车向人们展示新颖、独特、超前的构思，反映人类对先进汽车的梦想与追求。这种车往往只是处在创意、试验阶段，也许不会投产，主要用于车辆的开发研究和开发试验，可以为探索汽车的造型、采用新的结构、验证新的原理等提供样机。
+粉红领,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+佯死,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到佯死这个词，我先把它记下来
+身材魁梧,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+噻吩,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到噻吩这个词，我先把它记下来
+脐环,baike,baike,True,baike,脐环:脐环: 肚脐周围的表皮打洞穿孔佩戴饰品。 脐环是在肚脐上周围的表皮打洞穿孔（一般在上侧）所佩戴的饰品，是体环的一种。
+坤枢,baike,baike,True,baike,坤枢: 坤枢，是一个汉语词汇，拼音kūnshū，释义为地轴，借指地壳。
+百工,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,找到多个bǎigōng，你想查哪一个呢?
+拨火棍,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,拨火棍的意思是拨弄炉火的短棒。
+迪士尼乐园,baike,baike,True,baike,迪士尼乐园[迪士尼游乐园]: 迪士尼乐园于1955年7月开园，立刻成为世界上最具知名度和人气的主题公园。包含: 三家主题酒店和一个迪士尼小镇。
+中拇指,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,中拇指的意思是中指。
+限行,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,找到多个xiànxíng，你想查哪一个呢?
+毫厘不差,zh_dic,zh_dic_idiom_lookup.meaning_lookup,True,zh_dic_idiom_lookup.meaning_lookup,毫厘不差的意思是指丝毫不差。形容非常准确。
+穷竭,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到穷竭的意思，我先把它记下来
+漂洋过海,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到漂洋过海这个成语，我先把它记下来
+小溪,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,小溪 ，宋代， 李介山 ，东风满眼柳花飞，信步扶藜过小溪。淮甸凄凉春事少，楚天空阔暮云低。江山有意怜孤客，桃李无心恋故蹊。纵使有家归未得，数声蜀魄为谁啼。
+疤瘌,baike,baike,True,baike,疤瘌: 疤瘌，伤口或疮平复以后留下的痕迹。释义: 伤口或疮平复以后留下的痕迹。
+彼苍,baike,baike,True,baike,彼苍: 彼苍（bǐ cāng），是一个汉语词汇，是天的代称。
+宇量,baike,baike,True,baike,宇量: 宇量，是汉语词汇，拼音：yǔ liàng，释义是气度；度量。
+弟妇,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到弟妇的意思，我先把它记下来
+腾起,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到腾起的意思，我先把它记下来
+指点迷津,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到指点迷津这个成语，我先把它记下来
+合成词,knowledge,no_task,False,no_task,抱歉，小猴没理解。
+堆叠,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到堆叠的意思，我先把它记下来
+赌棍,baike,baike,True,baike,赌棍: 赌棍就是指嗜赌成性，一贯赌博，以赌博所得为其生活来源的人。
+立交,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,利交 ，宋代， 仇远 ，一自仪秦去，从衡直到今。士缘贫失节，交以利知心。乍可昏求火，何堪昼见金。狂澜回已倒，犹幸有山林。
+微服私访,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到微服私访这个成语，我先把它记下来
+卷铺盖,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到卷铺盖这个词，我先把它记下来
+谯楼,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,谯楼 ，宋代， 赵崇嶓 ，霜满谯楼报五更，道人睡稳几曾听。金街应有朝天客，珮马禁寒望晓星。
+碗柜,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到碗柜的意思，我先把它记下来
+装腔做势,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是戏题时贤画达摩像六段中的诗句
+戏题时贤画达摩像六段 ，当代， 启功 ，片苇东航，只履西归，教外之传。要本心直指，不凭文字，一衣一钵，面壁多年。敬问嘉宾，有何贵干，枯坐居然叫作禅。谁知道，竟一花五叶，法统蝉联。断肢二祖心虔。又行者逃生命缕悬。忆菩提非树，那椿公案，触而且背，早落言诠。临济开宗，逢人便打，寂静如何变野蛮。空留下，漫装腔作势，各相俱全。"
+洗手间,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到洗手间的意思，我先把它记下来
+省墓,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,省墓 ，宋代， 叶茵 ，陇上松杉手自移，至今苔藓半寒枝。梦中不记重泉隔，犹学儿童戏䌽时。
+寝食难安,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到寝食难安这个成语，我先把它记下来
+乌鸟之情,baike,baike,True,baike,乌鸟之情: 乌鸟之情，汉语词汇，出自三国·魏·杜挚《降吴表》，解释为奉养长辈的孝心。用法: 作賓語、定語。
+绝后,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到绝后的意思，我先把它记下来
+三伏,baike,baike,True,baike,三伏，是初伏、中伏和末伏的统称，是一年中最热的时段。“伏”表示阴气受阳气所迫藏伏地下。每年三伏天出现在公历7月中旬到8月中旬，其气候特点是气温高、气压低、湿度大、风速小。所谓“热在三伏”，三伏有初伏、中伏和末伏之分，它的日期是由节气日期和干支纪日日期相配合来决定的。 我国传统的推算方法规定，夏至后的第三个庚日为初伏之始，第四个庚日为中伏之始，立秋后第一个庚日为末伏之始。因为每个庚日之间相隔10天，所以初伏、末伏规定的时间是10天。中伏的天数则有长有短，可能是10天，也可能是20天，这取决于每年夏至节气后第3个庚日（初伏）出现日期的迟早。
+国医,baike,baike,True,baike,国医节是为了纪念反对取消旧医药及全盘否定中医中药的胜利，并希望中医中药能在中国乃至全世界弘扬光大，造福人类而设定的节日（每年的3月17日）。 3月17日是中国国医节。这一节日的来历与叶开泰药号组织领导的一场抵制废止中医药运动有关。当年汪精卫政府要反对中医，废除中药。一个在日本留过学的西医余岩（字云岫）借势发难，1929年2月，国民政府卫生部召开第一届中央卫生委员会上，围绕着“废止中医”问题，提出：取消旧医药（那时中医中药被称为旧医药），全盘否定中医中药。这就是臭名昭著的“废止中医案”。 为了纪念这次抗争的胜利，并希望中医中药能在中国乃至全世界弘扬光大，造福人类，医学界人士将每年的3月17日定为“国医节”。
+蠢才,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到蠢才这个词，我先把它记下来
+雄大,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到雄大的意思，我先把它记下来
+抵账,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到抵账的意思，我先把它记下来
+皇子,baike,baike,False,baike,抱歉，小猴答不上来
+书牍,baike,baike,True,baike,书牍:释义: 简牍书信之类的总称。 书牍，汉语词汇。
+钝器,baike,baike,True,baike,没有尖或刃的器物，如棍棒、锤子等，多指用于行凶的。
+正面人物,baike,baike,False,baike,抱歉，小猴答不上来
+大烟,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,大言 ，唐代， 雍裕之 ，四溟杯渌醑，五岳髻青螺。挥汗曾成雨，画地亦成河。
+三豕渡河,baike,baike,False,baike,抱歉，小猴答不上来
+柜橱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到柜橱的意思，我先把它记下来
+木屋,baike,baike,True,baike,木屋: 木屋指的是用木头做成的屋子。类别: 轻型木结构和重型木结构。
+妄作胡为,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到妄作胡为这个成语，我先把它记下来
+驴肝肺,baike,baike,False,baike,抱歉，小猴答不上来
+四世同堂,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+发红,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到发红的意思，我先把它记下来
+以正视听,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+赐与,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到赐与的意思，我先把它记下来
+后羿射日,baike,baike,True,baike,传说“后羿”是“嫦娥”的丈夫。后羿在的时候，天上有十个太阳，烧得草木，庄稼枯焦，后羿为了救百姓，一连射下九个太阳，从此地上气候适宜，万物得以生长。
+百毒不侵,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到百毒不侵这个成语，我先把它记下来
+放洋,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,放洋 ，清代， 熊学鹏 ，趁晓乘潮海舶寒，清风相送出台端。片帆飘渺烟中过，一碧澄泓浪里看。举目惟瞻天日近，回头但觉水云宽。要知舟楫由来好，不畏重洋济涉难。
+释然,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到释然的意思，我先把它记下来
+一家之说,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到一家之说这个成语，我先把它记下来
+屋上架屋,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到屋上架屋这个成语，我先把它记下来
+孽缘,baike,baike,False,baike,抱歉，小猴答不上来
+挨饿受冻,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到挨饿受冻这个成语，我先把它记下来
+界外,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到界外的意思，我先把它记下来
+好走,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+万箭钻心,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到万箭钻心这个成语，我先把它记下来
+端绪,baike,baike,True,baike,端绪: 端绪，是一个汉语词语，拼音为duān xù，指头绪；端倪；些微的认识或模糊的想法。注音: ㄉㄨㄢ ㄒㄩˋ。
+缝子,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到缝子的意思，我先把它记下来
+春情,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,春晴 ，明代， 王守仁 ，林下春晴风渐和，高崖残雪已无多。游丝冉冉花枝静，青壁迢迢白鸟过。忽向山中怀旧侣，几从洞口梦烟萝。客衣尘土终须换，好与湖边长芰荷。
+官宦,baike,baike,True,baike,官宦: 官宦是一个汉语词汇，拼音是：guān huàn释义：1、指大理寺专门采集证据的官员。释义: 泛指官员。
+宠嬖,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到宠嬖的意思，我先把它记下来
+大前天,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+气象一新,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+借读,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到借读的意思，我先把它记下来
+猛火,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到猛火的意思，我先把它记下来
+恩威并济,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到恩威并济这个成语，我先把它记下来
+障子,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,帐子 ，宋代， 释慧开 ，才得当阳一线通，全彰大用显家风。直饶鼻孔辽天汉，未免从头被罩笼。
+凤梨,baike,baike,True,baike,凤梨（学名：Ananas comosus  （Linn.） Merr.），茎短。叶多数，莲座式排列，剑形，顶端渐尖，全缘或有锐齿，腹面绿色，背面粉绿色，边缘和顶端常带褐红色，生于花序顶部的叶变小，常呈红色。花序于叶丛中抽出，状如松球；苞片基部绿色，上半部淡红色，三角状卵形；萼片宽卵形，肉质，顶端带红色；花瓣长椭圆形，端尖，上部紫红色，下部白色。聚花果肉质。花期夏季至冬季。 中国福建、广东、海南、广西、云南、台湾有栽培。原产美洲热带地区。俗称菠萝，为著名热带水果之一。
+神宇,baike,baike,False,baike,抱歉，小猴答不上来
+南欧,baike,baike,True,baike,南欧是欧洲南部的简称，范围包括伊比利亚半岛、亚平宁半岛及巴尔干半岛南部，包括西班牙、葡萄牙、安道尔、意大利、希腊、马耳他、梵蒂冈、圣马力诺、斯洛文尼亚、克罗地亚、阿尔巴尼亚、罗马尼亚、保加利亚、塞尔维亚、黑山、马其顿和波斯尼亚和黑塞哥维那共17个国家，也称为地中海欧洲，因为大多南欧国家靠近地中海。面积约为166万多平方公里。南欧隔着地中海与亚、非两洲相望，自古以来与西亚及北非往来密切，同是重要的古文明起源地；对西方世界而言，南欧更孕育了古希腊、古罗马文化，确立了早期的基督教社会，为西方的思想及知识体系奠定了基础。
+律令,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到律令的意思，我先把它记下来
+村学,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,村学 ，宋代， 丘葵 ，矛头淅米末途难，活计僧梳刖屦间。老去欢悰如泼水，向来愚见欲移山。身穿犊鼻朝朝冷，眼见蝇头字字艰。扶病来为村学究，始知穷乏累清闲。
+密不透风,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到密不透风这个成语，我先把它记下来
+拗口令,knowledge,no_task,False,no_task,抱歉，小猴没理解。
+整齐划一,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到整齐划一这个成语，我先把它记下来
+芳龄,baike,baike,True,baike,芳龄: 女子的年龄。注音: ㄈㄤ ㄌㄧㄥˊ。
+不菲,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到不菲的意思，我先把它记下来
+飞迸,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到飞迸的意思，我先把它记下来
+入国问禁,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到入国问禁这个成语，我先把它记下来
+封盖,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到封盖的意思，我先把它记下来
+发散,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到发散的意思，我先把它记下来
+喋喋不已,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+黏附,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到黏附的意思，我先把它记下来
+休庭,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到休庭的意思，我先把它记下来
+井井有理,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到井井有理这个成语，我先把它记下来
+云山雾罩,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到云山雾罩的意思，我先把它记下来
+查私,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到查私的意思，我先把它记下来
+磨洋工,baike,baike,False,baike,抱歉，小猴答不上来
+愚蒙,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,谕蒙 ，宋代， 种放 ，大盈卑百渎，自成浮天浔。崇丘下累块，竟为蔽日深。王者在谦小，夙惟尧禹心。拜言尊贤仁，慎德弃珠金。自满九族散，匪骄百善寻。炳兹夏商鉴，灭国因夸淫。
+活脱脱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到活脱脱的意思，我先把它记下来
+金鸡纳霜,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到金鸡纳霜的意思，我先把它记下来
+发毛,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到发毛的意思，我先把它记下来
+中弹,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到中弹的意思，我先把它记下来
+开山之祖,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是水龙吟·补陀大士虚空中的诗句
+水龙吟·补陀大士虚空 ，宋代， 辛弃疾 ，补陀大士虚空，翠岩谁记飞来处。蜂房万点，似穿如碍，玲珑窗户。石髓千年，已垂未落，嶙峋冰柱。有怒涛声远，落花香在，人疑是桃源路。又说春雷鼻息，是卧龙弯环如许。不然应是，洞庭张乐，湘灵来去。我意长松，倒生阴壑，细吟风雨。竟茫茫未晓。只应白发，是开山祖。"
+杂耍,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到杂耍的意思，我先把它记下来
+怒容满面,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到怒容满面这个成语，我先把它记下来
+并蒂莲,baike,baike,True,baike,并蒂莲[荷花中的千瓣莲类]: 并蒂莲是荷花中的一个变种，实际上，它一茎产生两花，花各有蒂，蒂在花茎上连在一起，所以也有人称它为并头莲，同心芙蓉，合欢莲，瑞莲。属: 莲属。
+一不小心,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+菡萏,baike,baike,True,baike,菡萏: 菡萏，荷花的别称。界: 植物界。
+俚语,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,俚语 ，唐代， 佚名 ，骑虎者，势不得下。。
+合上,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,河上 ，宋代， 华镇 ，沙头两两飞归雁，水面茸茸长绿蒲。知是人间好时节，不妨河上弄泥涂。
+躺下,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,塘下 ，宋代， 林千之 ，一片颓园生谷桑，惟馀小圃佔秋光。竹篱蔓引牵牛碧，野菜崇生苦藚黄。抱叶蝉瘖枯树冷，衔花鹿去古台荒。兴亡往往关天数，搔首踌躇对夕阳。
+闻名于世,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到闻名于世的意思，我先把它记下来
+当一天和尚撞一天钟,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+石墩,baike,baike,True,baike,石墩:释义: 石头墩子。 石墩意思是石头墩子，即由宽而厚的石头形成的墩子。
+回涨,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到回涨的意思，我先把它记下来
+始料未及,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+天高气爽,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是南浦 浦滕王阁怀古中的诗句
+南浦 浦滕王阁怀古 ，明代， 喻综 ，天高气爽，看平楚落叶动秋声。南国惊霜征雁，带影下寒城。漠漠轻舟过雨，湿帆飞远几点微星。更萧条鸦集，陌头衰柳，残照万峰青。瑟瑟江澄染练，忆从前何事不凝情。日月销磨今古，不见旧旗旌。青雀黄龙何在，也阶除惟有树长生。叹去来月上栏杆，空际水波明。"
+果子酱,baike,baike,True,baike,果子酱: 果子酱，水果和糖制成的稠状食品，大多用来涂抹面包食用。
+弯弯曲曲,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是忆秦娥（正月初六日夜月）中的诗句
+忆秦娥（正月初六日夜月） ，宋代， 朱淑真 ，弯弯曲。新年新月钩寒玉。钩寒玉。凤鞋儿小，翠眉儿蹙。闹蛾雪柳添妆束。烛龙火树争驰逐。争驰逐。元宵三五，不如初六。"
+黯然泪下,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到黯然泪下这个成语，我先把它记下来
+凉丝丝,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到凉丝丝的意思，我先把它记下来
+千秋万载,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,千秋万岁 ，宋代， 李冠 ，杏花好子细君须辨。比早梅深夭桃浅。把鲛绡淡拂鲜红面。蜡融紫萼重重现。烟外悄，风中笑，香满院。欲绽全开俱可羡。粹美妖娆无处选。除卿卿似寻常见。倚天真艳冶轻朱粉，分明洗出胭脂面。追往事，绕芳榭，千千遍。
+国威,baike,baike,True,baike,刘国威，现任福田区文联党组书记、主席。 任免信息 2019年3月14日，福田区机构改革任职集中宣布暨新机构集中挂牌大会在福田区委会堂二楼隆重举行。13个新设机构进行了集中揭牌，宣布了106名干部获任新职。
+更易,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+不惜代价,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到不惜代价这个成语，我先把它记下来
+形态万千,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是感皇恩中的诗句
+感皇恩 ，元代， 姬翼 ，一念失真常，沉沦苦海。六道周游趁情爱。形囚物彀，颠倒何时悬解。在人中分外贪婪差。死去生来，千形万态。宛转循环要宁耐。片时光景，不测头皮更改。劝抽身莫待临时悔。"
+饭铺,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到饭铺的意思，我先把它记下来
+大龄,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到大龄的意思，我先把它记下来
+高致,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到高致的意思，我先把它记下来
+就逮,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到就逮的意思，我先把它记下来
+炸裂,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到炸裂的意思，我先把它记下来
+创痕,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到创痕的意思，我先把它记下来
+六弦琴,baike,baike,True,baike,六弦琴: 扎木年，是藏族弹弦乐器，俗称“藏族六弦琴”，藏语意为声音悦耳的琴，深受藏族人民喜爱，是歌舞常用的伴奏乐器。
+娃子,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到娃子的意思，我先把它记下来
+大饱口福,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到大饱口福这个成语，我先把它记下来
+凋残,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到凋残的意思，我先把它记下来
+伪币,baike,baike,False,baike,抱歉，小猴答不上来
+始发站,baike,baike,True,baike,始发站: 始发站是指城市公共交通系统中，按调度指令发车的起点。
+渔猎,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,御猎 ，唐代， 王建 ，青山直绕凤城头，浐水斜分入御沟。新教内人唯射鸭，长随天子苑东游。
+磨砂玻璃,baike,baike,False,baike,抱歉，小猴答不上来
+使气,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到使气的意思，我先把它记下来
+跋前疐后,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是进学解中的诗句
+进学解 ，唐代， 韩愈 ，国子先生晨入太学，招诸生立馆下，诲之曰：“业精于勤，荒于嬉；行成于思，毁于随。方今圣贤相逢，治具毕张。拔去凶邪，登崇畯良。占小善者率以录，名一艺者无不庸。爬罗剔抉，刮垢磨光。盖有幸而获选，孰云多而不扬？诸生业患不能精，无患有司之不明；行患不能成，无患有司之不公。”
+言未既，有笑于列者曰：“先生欺余哉！弟子事先生，于兹有年矣。先生口不绝吟于六艺之文，手不停披于百家之编。纪事者必提其要，纂言者必钩其玄。贪多务得，细大不捐。焚膏油以继晷，恒兀兀以穷年。先生之业，可谓勤矣。
+觝排异端，攘斥佛老。补苴罅漏，张皇幽眇。寻坠绪之茫茫，独旁搜而远绍。障百川而东之，回狂澜于既倒。先生之于儒，可谓有劳矣。
+沉浸醲郁，含英咀华，作为文章，其书满家。上规姚姒，浑浑无涯；周诰、殷《盘》，佶屈聱牙；《春秋》谨严，《左氏》浮夸；《易》奇而法，《诗》正而葩；下逮《庄》、《骚》，太史所录；子云，相如，同工异曲。先生之于文，可谓闳其中而肆其外矣。
+少始知学，勇于敢为；长通于方，左右具宜。先生之于为人，可谓成矣。
+然而公不见信于人，私不见助于友。跋前踬后，动辄得咎。暂为御史，遂窜南夷。三年博士，冗不见治。命与仇谋，取败几时。冬暖而儿号寒，年丰而妻啼饥。头童齿豁，竟死何裨。不知虑此，而反教人为？”
+先生曰：“吁，子来前！夫大木为杗，细木为桷，欂栌、侏儒，椳、闑、扂、楔，各得其宜，施以成室者，匠氏之工也。玉札、丹砂，赤箭、青芝，牛溲、马勃，败鼓之皮，俱收并蓄，待用无遗者，医师之良也。登明选公，杂进巧拙，纡馀为妍，卓荦为杰，校短量长，惟器是适者，宰相之方也。昔者孟轲好辩，孔道以明，辙环天下，卒老于行。荀卿守正，大论是弘，逃谗于楚，废死兰陵。是二儒者，吐辞为经，举足为法，绝类离伦，优入圣域，其遇于世何如也？今先生学虽勤而不繇其统，言虽多而不要其中，文虽奇而不济于用，行虽修而不显于众。犹且月费俸钱，岁靡廪粟；子不知耕，妇不知织；乘马从徒，安坐而食。踵常途之役役，窥陈编以盗窃。然而圣主不加诛，宰臣不见斥，兹非其幸欤？动而得谤，名亦随之。投闲置散，乃分之宜。若夫商财贿之有亡，计班资之崇庳，忘己量之所称，指前人之瑕疵，是所谓诘匠氏之不以杙为楹，而訾医师以昌阳引年，欲进其豨苓也。"
+曾经沧桑,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+报账,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到报账的意思，我先把它记下来
+止渴,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到止渴的意思，我先把它记下来
+调包,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到调包的意思，我先把它记下来
+阅兵,baike,baike,True,baike,阅兵: 阅兵，是对武装力量进行检阅的仪式。包括: 阅兵式和分列式。
+名门望族,baike,baike,True,baike,名门望族: 名门望族是指历史悠久而声望很髙的家族。释义: 豪门即显要的家庭或有特权的家族。
+停播,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到停播的意思，我先把它记下来
+口无遮拦,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到口无遮拦这个成语，我先把它记下来
+灯火阑珊,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是柳梢青 其四 黄栀林送李粹伯中的诗句
+柳梢青 其四 黄栀林送李粹伯 ，宋代， 赵师侠 ，料峭馀寒。元宵欲过，灯火阑珊。宿酒难醒，新愁未解，摇兀吟鞍。深林百舌关关。更雨洗桃红未干。野烧痕青，荒陂水满，春事何堪。"
+假币,baike,baike,False,baike,抱歉，小猴答不上来
+无边无涯,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到无边无涯这个成语，我先把它记下来
+拔取,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到拔取的意思，我先把它记下来
+后援,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到后援的意思，我先把它记下来
+笔供,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到笔供的意思，我先把它记下来
+末班车,baike,baike,False,baike,抱歉，小猴答不上来
+花柳病,baike,baike,True,baike,花柳病: 花柳病，即性病，目前称之为性传播疫病，在古代被认为这是寻“花”问“柳”之病，自然和嫖妓、乱交有很大关系，也因此而得名。常见病因: 病毒，衣原体，支原体，螺旋体。
+四处奔波,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+芙蕖,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,芙蕖 ，宋代， 王安石 ，芙蕖耐夏复宜秋，一种今年便满沟。南荡东陂无此物，但随深浅见游鯈。
+科罚,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到科罚的意思，我先把它记下来
+犯得着,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+水能载舟，亦能覆舟,,poem_title_lookup.content_lookup,False,poem_title_lookup.content_lookup,小猴没有找到相关的诗词信息
+阳光灿烂,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+千夫,baike,baike,True,baike,千夫长是一种古代武官的官职名称。 也是一名现代作家的笔名。千夫长，1962年出生于内蒙古哲里木盟科尔沁左翼后旗。80年代离开草原，进城读书，开始文学创作。
+巨奸大猾,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到巨奸大猾这个成语，我先把它记下来
+睾丸,baike,baike,False,baike,抱歉，小猴答不上来
+醒觉,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到醒觉的意思，我先把它记下来
+穹顶,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到穹顶的意思，我先把它记下来
+奶嘴,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到奶嘴的意思，我先把它记下来
+漏光,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到漏光的意思，我先把它记下来
+河南梆子,baike,baike,True,baike,河南梆子: 豫剧起源于中原（河南），是中国五大戏曲剧种之一，中国第一大地方剧种。腔调: 祥符调、豫东调、豫西调、沙河调。
+租钱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到租钱的意思，我先把它记下来
+连蹦带跳,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到连蹦带跳这个成语，我先把它记下来
+早车,baike,baike,False,baike,抱歉，小猴答不上来
+难民营,baike,baike,False,baike,抱歉，小猴答不上来
+咏赞,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到咏赞的意思，我先把它记下来
+阑干,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,阑干 ，唐代， 韩偓 ，扫花虽恨夜来雨，把酒却怜晴后寒。吴质谩言愁得病，当时犹不凭阑干。
+毒杀,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到毒杀的意思，我先把它记下来
+上坡路,baike,baike,True,baike,上坡路: 指由下往上的路，越走越高，也指过程中的困难。
+末座,baike,baike,True,baike,末座: 末座是汉语词汇，拼音为mozuo，解释为座次的末尾。
+画师,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,画石 ，唐代， 刘商 ，苍藓千年粉绘传，坚贞一片色犹全。那知忽遇非常用，不把分铢补上天。
+主办方,baike,baike,True,baike,主办方: 主办方是有权举办某项活动的机构，就是发起展览会或会议，论坛的单位或个人。
+或然,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到或然的意思，我先把它记下来
+坟场,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到坟场的意思，我先把它记下来
+安寝,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到安寝的意思，我先把它记下来
+座无空席,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到座无空席这个成语，我先把它记下来
+平平整整,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到平平整整这个成语，我先把它记下来
+滴翠,baike,baike,True,baike,滴翠: 滴翠，汉语词汇。释义: 翠绿的程度，像要滴下水来的样子。
+科场,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到科场的意思，我先把它记下来
+佻薄,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到佻薄的意思，我先把它记下来
+后坐力,baike,baike,True,baike,后坐力:后坐力: 受到火药气体的压力。 来源枪械发射时子弹壳同样受到火药气体的压力，从而推动枪机后坐，后坐的枪机撞击和枪托相连的机框，从而产生后坐力，因此理论上口径越大，撞击越猛，后坐越强，但是枪在设计时有缓冲机构，可以延长撞击时间从而减低后坐力，同时，高效的枪口制退器同样可以减小后坐力（原理类似火箭向后喷气），所以，后坐力的大小和口径有关，但枪械本身的结构设计影响更大。
+多虑,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到多虑的意思，我先把它记下来
+洪涝,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到洪涝的意思，我先把它记下来
+厌恨,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到厌恨的意思，我先把它记下来
+他山之攻,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,他山之石 ，宋代， 袁燮 ，他山之石能攻玉，诗人此意宜三复。莫嫌山骨太坚峭，足使国珍充韫匮。磨砻砥砺功日新，圭璧琮璜光可烛。人生行己良独难，昼夜营营昏利慾。欲为全德古君子，莫弃忠规甘谄曲。忠规未必皆我友，言是人非亦可录。彼虽蒙蔽不自知，察人过差穷隠伏。圣人阃域未易到，责我谓我追遐躅。观渠待我最深厚，我听其言当佩服。端知良药苦难堪，已我沈疴功甚速。古人闻过每欣喜，要令忠告来相续。今我昏怠不自强，逆耳阔疎亲软熟。嗟予未免世俗病，每读古书知不足。今朝偶诵攻玉诗，从此闻善三薰沐。
+春阳,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,春阳 ，宋代， 孔平仲 ，春阳已出地，冰雪尚峥嵘。半作泥涂湿，尤妨车马行。溪流成小派，海气乱新晴。湮鬰须披豁，谁同上古城。
+向光性,baike,baike,True,baike,植物生长器官受单方向光照射而引起生长弯曲的现象称为向光性。对高等植物而言，向光性主要指植物地上部分茎叶的正向光性。以前认为根没有向光性反应，然而近年来以拟南芥为研究材料，发现根有负向光性。植物的向光性以嫩茎尖、胚芽鞘和暗处生长的幼苗最为敏感。生长旺盛的向日葵、棉花等植物的茎端还能随太阳而转动。向光性是植物的一种生态反应，如茎叶的向光性，能使叶子尽量处于吸收光能的最适位置进行光合作用。
+洄游,baike,baike,True,baike,洄游[一种鱼类运动]:洄游动力: 2种。 洄游（migration）是鱼类运动的一种特殊形式，是一些鱼类的主动、定期、定向、集群、具有种的特点的水平移动。
+抠门,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到抠门的意思，我先把它记下来
+白晃晃,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到白晃晃的意思，我先把它记下来
+气定神闲,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是题巴陵宰邓器先北窗中的诗句
+题巴陵宰邓器先北窗 ，唐代， 王炎 ，权利炙手热，争道俱着鞭。鸡鸣已盥栉，日莫未息肩。中宵一假寐，梦想游钧天。达人袖手观，方寸常超然。冰壶不受暑，凛凛含清寒。消摇北窗下，俯仰宇宙宽。千诗句有眼，一曲琴无絃。开尊对白堕，拂榻饱黑甜。功名不挂念，气定神自闲。渊明亦一出，未倦飞已还。我常疑若人，本不欲闭关。漫仕今墨绶，阅世垂苍颜。卷舒各有时，隠显皆足贤。先正文昌丞，玉立四近班。风流被后昆，世以忠孝传。丹扆新日月，黄图旧山川。故家乔木高，义气许国坚。前贤经济心，不在轩冕间。才猷时所须，何得无里言。高枕恐未稳，鸣珂终小骞。煌煌汉元侯，事业光青编。"
+绵延不绝,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+形同陌路,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到形同陌路这个成语，我先把它记下来
+贬词,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,边词 ，唐代， 张敬忠 ，五原春色旧来迟，二月垂杨未挂丝。即今河畔冰开日，正是长安花落时。
+偏口鱼,baike,baike,True,baike,偏口鱼: 偏口鱼，即比目鱼，高眼鲽，是硬骨鱼纲鲽形目鱼类的总称，包括鰜科、鲆科、鲽科、鳎科、舌鳎科鱼类。科: 鰜科、鲆科、鲽科、鳎科、舌鳎科。
+命数,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,命书 ，宋代， 陈造 ，命书唐滥觞，委源传吕后。有倡莫为遏，波荡今不救。字育叵数计，八字讵所囿。甲子动垓亿，举一百万漏。荒唐无稽据，诵言指休咎。柰何聪达人，颇复安此谬。怀刺曳长裾，偃蹇文士右。夸诩走干谒，荐墨不待叩。士有待濡沬，百请不一售。我昔游江淮，知识间新旧。文士不到眼，此辈日交簉。辞章轻杯水，羡彼行橐富。鳃鳃问利禄，吾儒所深陋。自笑与世违，迂论取排诟。
+茶褐色,baike,baike,False,baike,抱歉，小猴答不上来
+船家,baike,baike,True,baike,船家: 船家是一个汉语词语，拼音是chuán jīa，意思是靠营运或捕捞为生计的船户。拼音: chuán jīa。
+薄情寡义,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到薄情寡义这个成语，我先把它记下来
+激浪,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到激浪的意思，我先把它记下来
+朝气勃勃,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到朝气勃勃这个成语，我先把它记下来
+欲取姑与,,poem_title_lookup.content_lookup,False,poem_title_lookup.content_lookup,小猴没有找到相关的诗词信息
+驾鹤西去,,poem_title_lookup.content_lookup,False,poem_title_lookup.content_lookup,小猴没有找到相关的诗词信息
+用计铺谋,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是刘玄德醉走黄鹤楼・尾声中的诗句
+刘玄德醉走黄鹤楼・尾声 ，唐代， 无名氏 ，他那里明明的捧着瑶觞，暗暗的藏着军将，用计铺谋怎防？着主公坐在那难走难逃筵会上，你心下自索参详，自度量，不比寻常，他则待赚虎离窝入地网。刘封云哎，赵叔，你不知道，那黄鹤楼近在水边。若水长呵，我安排战船，搭起浮桥，接应我父亲。他便跌下水去，落的他睡一觉。正末唱那黄鹤楼接大水长，翻波滚浪，正末云若主公不听赵云谏当呵。唱知他是甚风儿吹过汉阳江？下刘封云老赵，你去，我父亲他也不听你说。父亲走一遭，则管嚼食去。刘末云刘封，你与赵云紧守着城池。则着三五骑人马，跟我过江，直至黄鹤楼上赴宴，走一遭去。子龙心下莫踌躇，今朝止马践程途。过江亲赴碧莲会，直至那黄鹤楼上见周瑜。下刘封云父亲去了也。为甚么我赍发的俺父亲过江去？那周瑜是个是智多谋的人，俺父亲若有些好歹，他这个位，就是我承袭。凭着我这般好心肠，天也与我半碗饭吃。下。"
+刁顽,baike,baike,True,baike,刁顽: 刁顽，汉语词汇。出处: 元·关汉卿《鲁斋郎》第三折。
+前程似锦,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到前程似锦这个成语，我先把它记下来
+因特网,baike,baike,True,baike,因特网（Internet）是一组全球信息资源的总汇。有一种粗略的说法，认为INTERNET是由于许多小的网络（子网）互联而成的一个逻辑网，每个子网中连接着若干台计算机（主机）。Internet以相互交流信息资源为目的，基于一些共同的协议，并通过许多路由器和公共互联网而成，它是一个信息资源和资源共享的集合。
+分爨,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到分爨的意思，我先把它记下来
+游山逛水,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,游山水 ，明代， 陈繗 ，山色连云断，霞光照水飞。浪奔船势疾，波阔橹声微。水鸟翔还集，江花密更稀。五湖灯景好，范蠡亦忘归。
+公共场所,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+卧房,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到卧房的意思，我先把它记下来
+苦日子,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+寂静无声,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到寂静无声这个成语，我先把它记下来
+晚班,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到晚班的意思，我先把它记下来
+处男,baike,baike,True,baike,处男: 处男，或称童贞、童男、在室男，是指未进行过性交的男性。
+黑手,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到黑手的意思，我先把它记下来
+跟包,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到跟包的意思，我先把它记下来
+山珍,baike,baike,True,baike,山珍: 山珍是由中国著名山水画大师——张大千于1979年所创作。作者: 张大千。
+官绅,baike,baike,True,baike,官绅: 官绅是一个汉语词汇，读音为guān shēn，是指古代有权有势的官，也指官吏和绅士。解释: 官吏和绅士。
+戏班,baike,baike,False,baike,抱歉，小猴答不上来
+怆然泪下,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是金铜仙人辞汉歌中的诗句
+金铜仙人辞汉歌 ，唐代， 李贺 ，魏明帝青龙元年八月，诏宫官牵车西取汉孝武捧露盘仙人，欲立置前殿。宫官既拆盘，仙人临载，乃潸然泪下。唐诸王孙李长吉遂作《金铜仙人辞汉歌》。
+茂陵刘郎秋风客，夜闻马嘶晓无迹。画栏桂树悬秋香，三十六宫土花碧。魏官牵车指千里，东关酸风射眸子。空将汉月出宫门，忆君清泪如铅水。衰兰送客咸阳道，天若有情天亦老。携盘独出月荒凉，渭城已远波声小。"
+逗弄,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到逗弄的意思，我先把它记下来
+棚车,baike,baike,True,baike,棚车: 棚车，又称篷车，俗称闷罐车，是一种封闭的火车车厢，一般用来运送货物。
+经管,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到经管的意思，我先把它记下来
+贬义词,knowledge,no_task,False,no_task,抱歉，小猴没理解。
+火柱,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,火筯 ，宋代， 韦骧 ，劲直不容偏，纤纤体并圆。附炎非曲致，执热借双全。炽炭随方减，寒灰应手然。洪炉在调适，持此以为权。
+称扬,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到称扬的意思，我先把它记下来
+法不责众,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到法不责众这个成语，我先把它记下来
+发痴,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到发痴的意思，我先把它记下来
+衣不重采,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到衣不重采这个成语，我先把它记下来
+薪火相传,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是偈颂三十六首  其三○中的诗句
+偈颂三十六首  其三○ ，宋代， 释如珙 ，薪火相交，识性不停。上至诸佛，下至众生。扶过断桥水，伴归明月村。"
+泛论,baike,baike,True,baike,泛论: 泛论，拼音是fànlùn，是一个汉语词汇，释义为广泛地论述；泛泛地谈论。
+奢求,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到奢求的意思，我先把它记下来
+平反昭雪,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到平反昭雪这个成语，我先把它记下来
+法外施恩,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到法外施恩这个成语，我先把它记下来
+软钉子,baike,baike,True,baike,软钉子: 软钉子，读音ruǎndīngzi，汉语词语，基本意思为比喻委婉的回绝或批评。解释: 比喻委婉的回绝或批评。
+售出,baike,baike,True,baike,本义：卖出去
+歌姬,baike,baike,False,baike,抱歉，小猴答不上来
+颓垣断壁,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到颓垣断壁这个成语，我先把它记下来
+缺课,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到缺课的意思，我先把它记下来
+垫脚石,baike,baike,True,baike,垫脚石: 垫脚石是一个汉语词汇，意思是供步行时踏脚的石头。【解释】: 供步行时踏脚的石头。
+看押,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到看押的意思，我先把它记下来
+两鬓斑白,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到两鬓斑白这个成语，我先把它记下来
+归降,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,归乡 ，宋代， 张纲 ，穷巷归来已白头，结茅何必榜休休。好山当户碧云晚，明月满谿寒苇秋。诗社纵添新句法，醉乡难觅旧交游。平生幸自无机械，一棹夷由去狎鸥。
+吹牛皮,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到吹牛皮这个词，我先把它记下来
+酒坊,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,酒舫 ，宋代， 刘敞 ，悠悠转小棹，漾漾逐浮萍。载酒和嘉月，投篇弔独醒。
+步卒,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到步卒的意思，我先把它记下来
+不二价,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+饶沃,baike,baike,True,baike,饶沃: 饶沃是一个汉语词语。释义: 肥沃；富足。
+莞尔一笑,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是渔歌子中的诗句
+渔歌子 ，宋代， 张炎 ，□□□□白云多。童子贪眠枕绿蓑。莞尔笑，浩然歌。奈此萧萧落叶何。"
+舍近图远,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+上吊,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到上吊的意思，我先把它记下来
+沾沾自足,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到沾沾自足这个成语，我先把它记下来
+健朗,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到健朗的意思，我先把它记下来
+和好如初,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+零售商,baike,baike,False,baike,抱歉，小猴答不上来
+舍身取义,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+喇叭花,baike,baike,True,baike,喇叭花: 牵牛，学名 Pharbitis nil（L.）Choisy，又名牵牛花、喇叭花（各地统称），系旋花科牵牛属一年生缠绕草本，全身具短毛。界: 植物界。
+眉眼传情,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是蹋莎行（春归怨别）中的诗句
+蹋莎行（春归怨别） ，宋代， 曾协 ，柳眼传情，花心蹙恨。春风处处关方寸。朱帘卷尽画屏闲，云鬟半罗衣褪。燕语莺啼，日长人困。鱼沈雁断无音信。琵琶声乱篆烟斜，寸肠欲断无人问。"
+地边,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到地边的意思，我先把它记下来
+信心十足,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+大富大贵,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到大富大贵这个成语，我先把它记下来
+膀臂,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到膀臂的意思，我先把它记下来
+皇储,baike,baike,False,baike,抱歉，小猴答不上来
+弥天,baike,baike,True,baike,弥天: 弥天，指满天。
+出双入对,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+硬结,baike,baike,True,baike,硬结:释义: 变得坚硬;结成硬的块状。 硬结是一个汉语词汇，意思是变得坚硬;结成硬的块状。
+两厢情愿,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到两厢情愿这个成语，我先把它记下来
+高才硕学,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到高才硕学这个成语，我先把它记下来
+环环相扣,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到环环相扣这个成语，我先把它记下来
+归心,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到归心的意思，我先把它记下来
+碰到,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到碰到的意思，我先把它记下来
+雕饰,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到雕饰的意思，我先把它记下来
+扶病,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到扶病的意思，我先把它记下来
+机杼,baike,baike,True,baike,机杼: 机杼，指织布机。俗称: 织布机。
+冰点,baike,baike,True,baike,冰点[科技名词]: 冰点外文名ice point，是指水的凝固点，即水由液态变为固态的温度。
+每次,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到每次的意思，我先把它记下来
+维权,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到维权的意思，我先把它记下来
+执迷,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到执迷的意思，我先把它记下来
+回生,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到回生的意思，我先把它记下来
+麻麻黑,baike,baike,True,baike,麻麻黑: 拼音mā mɑ hēi ㄇㄚ ㄇㄚ ㄏㄟ解释麻麻黑 1. 天刚黑或天快黑 2. 方言。
+犯不上,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+搭车,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,大车 ，先秦， 佚名 ，大车槛槛，毳衣如菼。岂不尔思？畏子不敢。大车啍啍，毳衣如璊。岂不尔思？畏子不奔。榖则异室，死则同穴。谓予不信，有如皦日。
+殿宇,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到殿宇的意思，我先把它记下来
+菜鸟,baike,baike,True,baike,菜鸟是一个网络用语，一指新手，二指在某方面应用水平较低者。 某个人刚刚加入某个团队，或某个组织刚刚进入某个行业，适应环境，接受新的事物，都是需要一个过程的，处在这个过程阶段的人或组织，就叫菜鸟。
+宰制,baike,baike,False,baike,抱歉，小猴答不上来
+如期而至,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到如期而至这个成语，我先把它记下来
+昂奋,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到昂奋的意思，我先把它记下来
+好一阵,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+黄花鱼,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,黄鱼 ，唐代， 杜甫 ，日见巴东峡，黄鱼出浪新。脂膏兼饲犬，长大不容身。筒桶相沿久，风雷肯为神。泥沙卷涎沫，回首怪龙鳞。
+渔妇,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,渔父 ，宋代， 李龏 ，岁俭何曾敢吃浆，早于世路似忘羊。桃花饭有秦人味，不染膏粱脂腻香。
+喝醉,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到喝醉的意思，我先把它记下来
+寓目,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,寓目 ，唐代， 李商隐 ，园桂悬心碧，池莲饫眼红。此生真远客，几别即衰翁。小幌风烟入，高窻雾雨通。新知他日好，锦瑟傍朱栊。
+生命垂危,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+珠玉,baike,baike,True,baike,《珠玉词》是北宋晏殊的著作。作者承南唐冯延已余风，令词居多，虽内容单调，但词风特为婉丽，对宋初词坛有一定影响。明代毛晋尝据旧刻本重加考订，得词131首。之后，《四库全书》、《四部备要》等皆据以收录。有汲古阁刊本。
+引论,baike,baike,False,baike,抱歉，小猴答不上来
+熟铁,baike,baike,True,baike,熟铁: 熟铁是指用生铁精炼而成的比较纯的铁。概述: 用生铁精炼而成的比较。
+兼济天下,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是同宋参军之问梦赵六赠卢陈二子之作中的诗句
+同宋参军之问梦赵六赠卢陈二子之作 ，唐代， 陈子昂 ，晓霁望嵩丘，白云半巖足。氛氲涵翠微，宛如嬴台曲。故人昔所尚，幽琴歌断续。变化竟无常，人琴遂两亡。白云失处所，梦想暧容光。畴昔疑缘业，儒道两相妨。前期许幽报，迨此尚茫茫。晤言既已失，感叹情何一。始忆携手期，云台与峨眉。达兼济天下，穷独善其时。诸君推管乐，之子慕巢夷。奈何苍生望，卒为黄绶欺。铭鼎功未立，山林事亦微。抚孤一流恸，怀旧日暌违。卢子尚高节，终南卧松雪。宋侯逢圣君，骖驭游青云。而我独蹭蹬，语默道犹屯。征戍在辽阳，蹉跎草再黄。丹丘恨不及，白露已苍苍。远闻山阳赋，感涕下沾裳。"
+狐媚,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到狐媚的意思，我先把它记下来
+附庸国,baike,baike,True,baike,附庸国: 附庸国是指在别的宗主国轻度统治之下，没有自己主权自由的的国家。状态: 已消失。
+凉菜,baike,baike,True,baike,凉菜（外文名：Cold Dishes ），在饮食业俗称冷盘。它是具有独特风格，拼摆技术性强的菜肴，食用时数都是吃凉的，称之为凉菜。凉菜切配的主要原料大部分是熟料，因此这与热菜烹调方法有着截然的区别，它的主要特点是：选料精细、口味干香、脆嫩、爽口不腻，色泽艳丽，造形整齐美观，拼摆和谐悦目。在上餐次序上，冷菜通常都是放在最前面，起到点饥，开胃的作用。
+寄寓,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到寄寓的意思，我先把它记下来
+房主,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到房主的意思，我先把它记下来
+豆汁,baike,baike,True,baike,豆汁儿是老北京独具特色的传统小吃。
+打道回府,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到打道回府这个成语，我先把它记下来
+回眸,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到回眸的意思，我先把它记下来
+跪拜,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到跪拜的意思，我先把它记下来
+个展,baike,baike,True,baike,个展: 个展是一个汉语词语，读音是gè zhǎn，是指个人作品展出。
+渔人,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,渔人 ，唐代， 王炎 ，西南月未堕，白雾吞青山。渡口无人行，老渔一舟还。呵手系短缆，袯襫犯夜寒。捕鱼养妻子，谁谓斯人闲。
+下半晌,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到下半晌的意思，我先把它记下来
+炎火,baike,baike,True,baike,炎火: 炎火是一个汉语词汇，拼音yán huǒ ，解释一是指烈火，解释二是指传说中的火焰山。
+仕宦,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到仕宦的意思，我先把它记下来
+北方方言,baike,baike,False,baike,抱歉，小猴答不上来
+看不上,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+气绝,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到气绝的意思，我先把它记下来
+进账,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到进账的意思，我先把它记下来
+生拉硬扯,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+虚度光阴,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到虚度光阴这个成语，我先把它记下来
+立地,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到立地的意思，我先把它记下来
+复生,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,浮生 ，宋代， 陆游 ，浮生过六十，百念已颓然。独有躭书癖，犹同总角年。横陈粝饭侧，朗诵短檠前。不用嘲痴绝，儿曹尚可传。
+泰极生否,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是大宋中兴雅中的诗句
+大宋中兴雅 ，宋代， 李正民 ，炎正中微，泰极而否。边陲云扰，中原糜沸。靖康之元，逼我京师。金汤弛备，兵缠紫微。天方佑宋，帝在济阳。貔貅十万，左右陈行。旌旗蔽野，戈鋋彗云。八神警跸，七萃骏奔。移师商丘，亿兆乐推。讴歌狱讼，竭蹶咸归。爰登宝位，爰绍丕基。兢兢业业，一日万机。既巡淮甸，乃涖浙江。遣使聘问，原隰相望。两宫未复，夙夜靡遑。经之营之，十有馀年。戊午之秋，使车来旋。谓彼邻国，远达温言。欲讲盟好，厥志已坚。使在淮浦，众言盈庭。如蜩如螗，如沸如羹。更唱迭和，万口狺狺。帝若不闻，默与神谋。圣志先定，惟相是诹。轺车戾止，和好是求。复我河南，旧县与州。疆界方交，左贤被罪。谋臣既歼，信誓中悔。古贤继之，矜其勇鸷。氛尘冥冥，侵我淮泗。帝赫斯怒，张我皇威。乃敕六将，建尔鼓旗。追奔逐北，于淮之湄。师入陈许，亦反濉涣。两都震惧，人心冰泮。元戎駃马，往告于金。羣情愕眙，罔敢来侵。皇天悔祸，殊邻革心。按兵于境，旧盟是寻。锡以金帛，稛载方舟。皇华络绎，典礼具修。载书孔明，戎车遄迈。质于鬼神，万世永赖。龙楯来归，兆庶雨泣。圣心孺慕，哀恫罔极。百神毕会，缵禹之迹。永祐后昆，山川叶吉。长乐就养，袆衣褕翟。万寿称觞，怡心顺色。晨羞既进，夕膳载加。天子之孝，修于邦家。归马散牛，句戈束矢。大将释师，军政咸理。淮滨之民，夜眠晏起。秉尔耒耜，或耘或宣，惟仲山甫。爱莫助之，民鲜克举。我宋之隆，君臣会通。咸有一德，协于尹躬。中兴之功，薰灼夷夏。臣作是诗，以继周雅。"
+五痨七伤,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到五痨七伤这个成语，我先把它记下来
+玉轮,baike,baike,True,baike,玉轮: 玉轮是汉语词语，读音是yù lún，意为月的别名。
+敬拜,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到敬拜的意思，我先把它记下来
+芙蓉花,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,芙蓉花 ，宋代， 董嗣杲 ，如馆如城几艳丛，拒霜不觉老西风。曼卿人见骑驴去，丁度仙游按辔空。惆怅二公皆死谶，浅深十里尚秋红。且图席地看花醉，肯羡豪家绣褥工。
+胡桃,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,胡桃 ，宋代， 释普济 ，枝头叶底不能藏，独脱无依未厮当。一击浑身如粉碎，不堪收拾始馨香。
+交游,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,交游 ，宋代， 黄裳 ，率尔相会遇，欣然同醉吟。意外谈笑易，胸中矛戟深。契合好甘醴，听闻嫌正音。交结自此始，刎颈当知心。
+数不上,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+毫不在意,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到毫不在意这个成语，我先把它记下来
+棒槌,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到棒槌的意思，我先把它记下来
+黯然无光,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到黯然无光这个成语，我先把它记下来
+代为,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到代为的意思，我先把它记下来
+芭蕉扇,baike,baike,False,baike,抱歉，小猴答不上来
+勾绘,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到勾绘的意思，我先把它记下来
+惩恶扬善,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是太上感应篇中的诗句
+太上感应篇 ，宋代， 李昌龄 ，太上曰：祸福无门，唯人自召。善恶之报，如影随形。是以天地有司过之神依人所犯轻重，以夺人算。算减则贫耗，多逢忧患，人皆恶之，刑祸随之，吉庆避之，恶星灾之，算尽则死。又有三台北斗神君，在人头上，录人罪恶，夺其纪算。又有三尸神，在人身中，每到庚申日，辄上诣天曹，言人罪过。月晦之日，灶神亦然。凡人有过，大则夺纪，小则夺算。其过大小，有数百事，欲求长生者，先须避之。是道则进，非道则退。不履邪径，不欺暗室。积德累功，慈心于物。忠孝友悌，正己化人，矜孤恤寡，敬老怀幼。昆虫草木，犹不可伤。宜悯人之凶，乐人之善，济人之急，救人之危。见人之得，如己之得。见人之失，如己之失。不彰人短，不炫己长。遏恶扬善，推多取少。受辱不怨，受宠若惊。施恩不求报，与人不追悔。所谓善人，人皆敬之，天道佑之，福禄随之。众邪远之，神灵卫之，所作必成，神仙可冀。欲求天仙者，当立一千三百善，欲求地仙者，当立三百善；苟或非义而动，背理而行。以恶为能，忍作残害。阴贼良善，暗侮君亲。慢其先生，叛其所事。诳诸无识，谤诸同学。虚诬诈伪，攻讦宗亲。刚强不仁，狠戾自用。是非不当，向背乖宜。虐下取功，谄上希旨。受恩不感，念怨不休。轻蔑天民，扰乱国政。赏及非义，刑及无辜。杀人取财，倾人取位。诛降戮服，贬正排贤。凌孤逼寡，弃法受赂。以直为曲，以曲为直。入轻为重，见杀加怒。知过不改，知善不为。自罪引他，壅塞方术。讪谤贤圣，侵凌道德。射飞逐走，发蛰惊栖，填穴复巢，伤胎破卵。愿人有失，毁人成功。危人自安，减人自益。以恶易好，以私废公。窃人之能，蔽人之善。形人之丑，讦人之私。耗人货财，离人骨肉。侵人所爱，助人为非，逞志作威，辱人求胜。败人苗稼，破人婚姻。苟富而骄，苟免无耻，认恩推过。嫁祸卖恶。沽买虚誉，包贮险心。挫人所长，护己所短。乘威迫胁，纵暴杀伤。无故剪裁，非礼烹宰。散弃五谷，劳扰众生。破人之家。取其财宝。决水放火，以害民居，紊乱规模，以败人功，损人器物，以穷人用。见他荣贵，愿他流贬。见他富有，愿他破散。见他色美，起心私之。负他货财，原他身死。干求不遂，便生咒恨。见他失便，便说他过。见他体相不具而笑之。见他才能可称而抑之。埋蛊厌人，用药杀树。恚怒师傅，抵触父兄。强取强求，好侵好夺。掳掠致富，巧诈求迁。赏罚不平，逸乐过节。苛虐其下，恐吓于他。怨天尤人，呵风骂雨。斗合争讼，妄逐朋党。用妻妾语，违父母训。得新忘故。口是心非，贪冒于财，欺罔其上。造作恶语，谗毁平人。毁人称直，骂神称正，弃顺效逆，背亲向疏。指天地以证鄙怀，引神明而鉴猥事。施与后悔，假借不还。分外营求，力上施设。淫欲过度，心毒貌慈。秽食馁人，左道惑众。短尺狭度，轻秤小升。以伪杂真，采取奸利。压良为贱，谩蓦愚人，贪婪无厌，咒诅求直。嗜酒悖乱，骨肉忿争。男不忠良，女不柔顺。不和其室，不敬其夫。每好矜夸，常行妒忌。无行于妻子，失礼于舅姑，轻慢先灵，违逆上命。作为无益，怀挟外心。自咒咒他，偏憎偏爱。越井越灶，跳食跳人。损子堕胎，行多隐僻。晦腊歌舞，朔旦号怒。对北涕唾及溺，对灶吟咏及哭。又以灶火烧香，秽柴作食。夜起裸露，八节行刑。唾流星，指虹霓。辄指三光，久视日月，春月燎猎，对北恶骂。无故杀龟打蛇，如是等罪，司命随其轻重，夺其纪算。算尽则死，死有馀责，乃殃及子孙。又诸横取人财者，乃计其妻子家口以当之，渐至死丧。若不死丧，则有水火盗贼，遗亡器物，疾病口舌诸事，以当妄取之直。又枉杀人者，是易刀兵而相杀也。取非羲之财者，譬如漏脯救饥，鸩酒止渴，非不暂饱，死亦及之。夫心起于善，善虽未为，而吉神已随之。或心起于恶，恶虽未为，而凶神已随之。其有曾行恶事，后自改悔，诸恶莫作，众善奉行。久久必获吉庆，所谓转祸为福也。故吉人语善，视善，行善。一日有三善，三年天必降之福。凶人语恶视恶行恶，一日有三恶，三年天必降之祸，胡不勉而行之。"
+闭门谢客,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到闭门谢客这个成语，我先把它记下来
+马褂,baike,baike,True,baike,马褂: 马褂是服饰名 ，对襟、平袖端、盘扣、身长至腰，前襟缀扣襻五枚。样式: 大襟马褂、对襟马褂等。
+早育,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到早育的意思，我先把它记下来
+老少无欺,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到老少无欺这个成语，我先把它记下来
+忘年交,baike,baike,False,baike,抱歉，小猴答不上来
+台本,baike,baike,False,baike,抱歉，小猴答不上来
+联通,baike,baike,True,baike,同“连通”。
+泪液,baike,baike,False,baike,抱歉，小猴答不上来
+大气圈,baike,baike,True,baike,大气圈: 大气层 atmosphere 又叫大气圈，地球就被这一层很厚的大气层包围着。
+艳阳高照,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是清平乐 其一 毛主席种地处中的诗句
+清平乐 其一 毛主席种地处 ，当代， 杨鸿章 ，朝阳高照。万道霞光耀。主席坡前培谷稻。碧柳红桃迎笑。银锄斩棘披荆。汗珠润土滋根。育出壮苗亿万，神州一圃新春。"
+出聘,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到出聘的意思，我先把它记下来
+口误,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到口误的意思，我先把它记下来
+杜宇,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,杜宇 ，宋代， 周承勋 ，四海常为客，三春却倦游。能飞归不得，虽去有何求。故国千年恨，行人万里愁。年来风过耳，无泪与君流。
+解甲释兵,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到解甲释兵这个成语，我先把它记下来
+黄梅雨,baike,baike,False,baike,抱歉，小猴答不上来
+战抖,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到战抖的意思，我先把它记下来
+甜椒,baike,baike,True,baike,甜椒是一种属于管状花目、茄科、茄族、辣椒属、辣椒种的一年生或多年生的草本植物，其椒果肉厚而脆嫩，维生素C的含量较为丰富。甜椒是由原产于中南美洲热带地区的辣椒在北美演化而来，经过长期栽培和人工选择，使果实发生了体积增大、果肉变厚、辣味消失和心皮及子房腔数增多等性状变化。
+储君,baike,baike,True,baike,储君: 储君：指王位或皇位的继承人。解释: 帝王的继承者。
+胡麻,baike,baike,True,baike,胡麻是一种油料作物。
+张嘴结舌,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到张嘴结舌这个成语，我先把它记下来
+娼妇,baike,baike,False,baike,抱歉，小猴答不上来
+喜丧,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到喜丧的意思，我先把它记下来
+时俗,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到时俗的意思，我先把它记下来
+朱颜绿鬓,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是促拍丑奴儿（寿孟万户）中的诗句
+促拍丑奴儿（寿孟万户） ，宋代， 邓剡 ，睡起怯春寒。海棠花开未开间。莫言春色三分二，朱颜绿鬓，栽花种竹，谁似群闲。侯印旧家毡。早天边飞诏催还。从今几岁岁称觞处，人如玉雪，花如锦绣，福寿如山。"
+生意盎然,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到生意盎然这个成语，我先把它记下来
+速递,baike,baike,True,baike,速递又名快递（英语：Courier），是指寄送物品的服务，属于物流的范畴之一，与邮递相当类似，但快递可寄送比较大件的物品，例如书籍、网络购物物品等。除了专门提供快递服务的业者外，各地的邮政系统也多有快递服务。除了较快送抵目的地及必须签收外，现时很多快递业者均提供货件追踪功能、送递时间的承诺及其他按客户需要提供的服务。因此，快递的收费比一般邮递昂贵。
+老夫,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,老夫 ，唐代， 白居易 ，七八年来游洛都，三分游伴二分无。风前月下花园里，处处唯残个老夫。世事劳心非富贵，人间实事是欢娱。谁能逐我来闲坐，时共酣歌倾一壶。
+有模有样,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是觉际融长老请赞中的诗句
+觉际融长老请赞 ，宋代， 释师范 ，无箇模样，画箇模样。既有模样，是甚模样。节节危梁十二层，垂垂白发三千丈。"
+疲累,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到疲累的意思，我先把它记下来
+节子,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,诫子 ，宋代， 何梦桂 ，鲁语诲时习，商书称时敏。一字该二义，学者盍重省。又日新其德，成汤常自儆。三月不违仁，颜子独深领。今日或因循，明日澡即新。前月或断续，此月复即仁。圣贤惜分阴，于此犹兢兢。学者能用力，其名曰竞辰。人有一大时，一去不复仍。十五入大学，明德与新民。二十曰弱冠，既冠责成人。勤怠只数年，贤愚系终身。过此为失时，人不再青春。譬之农力穑，春耕而夏耘。耕耘苟失时，无复望秋成。父母上俱存，兄弟下无故。饱食无用心，白日任虚度。幼壮老复至，一朝忽反顾。对人语不了，握笔书辄误。龙鳞映犬豕，面目可憎恶。哀哉复哀哉，追悔已迟暮。及此尚可图，勉旃须早悟。
+国势,baike,baike,True,baike,国势: 1901，在中国国运衰微、几乎亡国灭种的危机时刻，时空变换，秦时竹等谱写了中华复兴的传奇。
+胡言,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,胡雁 ，宋代， 蔡襄 ，胡雁畏空漠，群飞向洲渚。褰云避射戈，万里声悲苦。月色满关河，欲下迷处所。春江沙平净，鱼蚌不可数。饱暖身肥腴，归路欲远举。寻常弓箭儿，仰视随意取。从来远祸心，狼借失旧侣。小哉衔芦智，岂识保身语。
+锻打,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到锻打的意思，我先把它记下来
+桥孔,baike,baike,False,baike,抱歉，小猴答不上来
+方外之士,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到方外之士这个成语，我先把它记下来
+刑事诉讼,baike,baike,True,baike,我国的刑事诉讼是指人民法院、人民检察院和公安机关在当事人及其他诉讼参与人的参加下，依照法律规定的程序，解决被追诉者刑事责任问题的活动。根据诉讼的内容和形式不同，诉讼活动可以具体分为刑事诉讼、民事诉讼和行政诉讼三部分。其中，刑事诉讼是指审判机关（人民法院）、检察机关（人民检察院）和侦查机关（公安机关含国家安全机关等）在当事人以及诉讼参与人的参加下，依照法定程序解决被追诉者刑事责任问题的诉讼活动。
+螳螂挡车,baike,baike,True,baike,螳螂挡车: 语出《庄子-人间世》说，螳螂“怒其臂以当车辙，不知其不胜任也。
+断根,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到断根的意思，我先把它记下来
+霍然,baike,baike,False,baike,抱歉，小猴答不上来
+兰草,baike,baike,True,baike,兰草一般是指葱兰、墨兰、春兰、蕙兰等，兰草的叶片为长椭圆形、披针形或是长椭圆披针形，叶片的正反面都十分的光滑，叶子的边缘有小锯齿。兰花的叶片为倒披针形，它是两列生长的，叶子的边缘上相对比较光滑；兰草的花是头状花序，大部分是在茎的顶部以及枝端，排列而成的伞房花序，兰草花为白色，或是带有微红色。
+黄花,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,黄花 ，宋代， 朱淑真 ，土花能白又能红，晚节犹能爱此工。宁可抱香枝上老，不随黄叶舞秋风。
+怕是,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+调干,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到调干的意思，我先把它记下来
+大漠,baike,baike,True,baike,"大漠: 大漠, 来自内地实力兼才华的男歌手。所属地区: 新疆。"
+雏鸟,baike,baike,True,baike,雏鸟[生物学名称]: 雏鸟（英文名称：Nestling）：指不能独立生活的幼小鸟类。所属: 生物学。
+舅子,baike,baike,True,baike,舅子: 舅子，是汉语词汇，出自《晋书·羊祜传》，解释为男子对妻子的弟弟或者哥哥的称谓。
+衣橱,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到衣橱的意思，我先把它记下来
+暴食,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,饱食 ，宋代， 陆游 ，饱食无功媿汗青，灯前顾影叹伶俜。马衰犹养疑知路，龟久当捐为不灵。腰下徒夸绶若若，镜中何止发星星。石帆回首初非远，要及清秋斸茯苓。
+讣闻,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到讣闻的意思，我先把它记下来
+分一杯羹,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是寄海安赵路分中的诗句
+寄海安赵路分 ，宋代， 宋伯仁 ，雨湿中秋节，重阳始得晴。菊花荣辱重，萍梗去留轻。诗卷抄无尽，乡书写未成。鲈鱼如钓得，分我一杯羹。"
+暖乎乎,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到暖乎乎的意思，我先把它记下来
+德性,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,得性 ，宋代， 释文珦 ，得性贤于得禄，归山胜似归朝。饮涧肺肠清浄，卧云魂梦逍遥。
+回溯,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到回溯的意思，我先把它记下来
+磕巴,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到磕巴的意思，我先把它记下来
+花芽,baike,baike,True,baike,花芽: 芽（ya）是维管植物（蕨类和种子植物）中尚未充分发育和伸长的枝条或花，实际上是枝条或花的雏型。界: 植物界。
+囫囵,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到囫囵的意思，我先把它记下来
+灯心,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,灯薪 ，宋代， 郑清之 ，小草虚心不染尘，传灯会上屡焚身。光明一点元无尽，谩结空花作好春。
+中途而废,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到中途而废这个成语，我先把它记下来
+各奔东西,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,各东西 ，唐代， 张籍 ，游人别，一东复一西。出门相背两不返，惟信车轮与马蹄。道路悠悠不知处，山高海阔谁辛苦。远游不定难寄书，日日空寻别时语。浮云上天雨堕地，暂时会合终离异。我今与子非一身，安得死生不相弃。
+保有,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到保有的意思，我先把它记下来
+叫花子,baike,baike,True,baike,叫花子→叫化子→教化子。启源于佛教苦修行者，吃的是百家饭，从乞讨中能体悟到生活的真帝。多年的修行教化后回到寺庙成为兄长→主持，再修练成方丈。固而民间的乞讨就叫花子。
+泛泛,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到泛泛的意思，我先把它记下来
+细致入微,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到细致入微这个成语，我先把它记下来
+日偏食,baike,baike,False,baike,抱歉，小猴答不上来
+曲曲折折,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到曲曲折折这个成语，我先把它记下来
+怕死鬼,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+窗幔,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到窗幔的意思，我先把它记下来
+眼镜蛇,baike,baike,True,baike,眼镜蛇（学名：Naja）为眼镜蛇属动物的通称，是眼镜蛇科的一属，其成员大多被统称为眼镜蛇。虽然世上也有不少其他蛇类的名字包含“眼镜蛇”（Cobra)一称（如眼镜王蛇、水眼镜蛇、唾蛇），但它们因演化亲缘性不足而并不归为此属。 眼镜蛇属目前约有20多个已确认物种，但分类学上经常就物种的独立性问题而存有争论，因此某些资料也可能有所出入。此属的成员主要分布于中东、东南亚、非洲、印度尼西亚等地。
+负效应,baike,baike,False,baike,抱歉，小猴答不上来
+朝四暮三,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是宋宗儒真赞中的诗句
+宋宗儒真赞 ，宋代， 黄庭坚 ，宋子勃窣，心有古镜。朝四暮三，为笑不竞。放一捻一，犹着禅病。探丸起死，味药知性。忧患不入乎杯中，抱胡琴而风听。若乃脱冠袒裼，扪蝨应客。目如愁胡，拊髀而唿。是必追橡栗于云杪，探水月于江湖，然后怏于心与。"
+皴裂,baike,baike,True,baike,皴裂，是汉语词汇，是发生在手足的深浅不一的裂纹。其既是一些皮肤病的伴随症状，也可作为一种独立的皮肤病。皴裂要注意手的养护，冬季注意保暖。
+爱才好士,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到爱才好士这个成语，我先把它记下来
+名扬天下,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到名扬天下这个成语，我先把它记下来
+涉世未深,zh_dic,no_task,False,no_task,抱歉，小猴没听懂。
+下网,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到下网的意思，我先把它记下来
+绝灭,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到绝灭的意思，我先把它记下来
+青涩,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到青涩的意思，我先把它记下来
+名利兼收,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+纵横交叉,zh_dic,no_task,False,no_task,抱歉，小猴没听清。
+实打实,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到实打实这个词，我先把它记下来
+除却,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到除却的意思，我先把它记下来
+翻盖,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到翻盖的意思，我先把它记下来
+借酒消愁,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是阮郎归 郭延年诞日中的诗句
+阮郎归 郭延年诞日 ，宋代， 李俊民 ，断蓬踪迹去依刘。试登王粲楼。此心安处即菟裘。尚何来往求。诗遣兴，酒消愁。竹林多胜游。与君何日共仙舟。相看应白头。"
+讹传,baike,baike,True,baike,讹传: 讹传，指与事实、事件等不相符的谣言。
+淡月,baike,baike,True,baike,淡月: 淡月dàn yuè是指天空有云雾，看不清楚月亮，月光淡淡。解释: 月光淡淡。
+划子,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到划子的意思，我先把它记下来
+教本,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到教本的意思，我先把它记下来
+脏病,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到脏病的意思，我先把它记下来
+禾黍之悲,,poem_title_lookup.content_lookup,False,poem_title_lookup.content_lookup,小猴没有找到相关的诗词信息
+乐陶陶,baike,baike,True,baike,乐陶陶: 乐陶陶，词语，释义形容快乐陶醉的样子。
+走电,baike,baike,True,baike,走电: 走电是一个汉语词语，读音是zǒudiàn，是指跑电;漏电。
+残羹剩饭,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是偈颂六十五首  其六○中的诗句
+偈颂六十五首  其六○ ，宋代， 释普济 ，东去西去，南来北来。残羹馊饭，门外安排。"
+仓庚,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,仓庚 ，宋代， 连文凤 ，谁将晚秋菊，染作新春衣。立当花枝上，惊散群鸟飞。一声复一声，声声如歔欷。歔欷意何如，乔木空无依。相唿入幽谷，今人交道非。
+窗格,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到窗格的意思，我先把它记下来
+小草,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到小草的意思，我先把它记下来
+村寨,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到村寨的意思，我先把它记下来
+顾客盈门,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+君主国,baike,baike,True,baike,君主国: 君主国（monarchical state; a monarchy），实行君主制，以君主为最高统治者的国家。制度: 君主制。
+黑茫茫,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到黑茫茫的意思，我先把它记下来
+大田,baike,baike,True,baike,大田村，属于山区。国土面积0.08平方公里，海拔1310.00米，适宜种植水稻、玉米等农作物。
+孜孜矻矻,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是争臣论中的诗句
+争臣论 ，唐代， 韩愈 ，或问谏议大夫阳城于愈，夫以为有道之士乎哉?学广而闻多，不求闻于人也。行古人之道，居于晋之鄙。晋之鄙人，熏其德而善良者几千人。大臣闻而荐之，天子以为谏议大夫。人皆以为华，阳子不色喜。居于位五年矣，视其德，如在野，彼岂以富贵移易其心哉？
+愈应之曰：是《易》所谓恒其德贞，而夫子凶者也。恶得为有道之士乎哉?在《易·蛊》之“上九”云：“不事王侯，高尚其事。”《蹇》之“六二”则曰：“王臣蹇蹇，匪躬之故。”夫亦以所居之时不一，而所蹈之德不同也。若《蛊》之“上九”，居无用之地，而致匪躬之节；以《蹇》之“六二”，在王臣之位，而高不事之心，则冒进之患生，旷官之刺兴。志不夫则，而尤不终无也。今阳子在位，不为不久矣；闻天下之得失，不为不熟矣；天子待之，不为不加矣。而未尝一言及于政。视政之得失，若越人视秦人之肥瘠，忽焉不加喜戚于其心。问其官，则曰谏议也；问其禄，则曰下大夫之秩秩也；问其政，则曰我不知也。有道之士，固如是乎哉?且吾闻之：有官守者，不得其职则去；有言责者，不得其言则去。今阳子以为得其言乎哉?得其言而不言，与不得其言而不去，无一夫者也。阳子将为禄仕乎?古之人有云：“仕不为贫，而有时乎为贫。”谓禄仕者也。宜乎辞尊而居卑，辞富而居贫，若抱关击柝者夫也。盖孔子尝为委吏矣，尝为乘田矣，亦不敢旷其职，必曰“会计当而已矣”，必曰“牛羊遂而已矣”。若阳子之秩禄，不为卑且贫，章章明矣，而如此，其夫乎哉?
+或曰：否，非若此也。夫阳子恶讪上者，恶为人臣招其君之过而以为名者。故虽谏且议，使人不得而知焉。《书》曰：“尔有嘉谟嘉猷，则人告尔后于内，尔乃顺之于外，曰：斯谟斯猷，惟我后之德”若阳子之用心，亦若此者。愈应之曰：若阳子之用心如此，滋所谓惑者矣。入则谏其君，出不使人知者，大臣宰相者之事，非阳子之所宜行也。夫阳子，本以布衣隐于蓬蒿之下，主上嘉其行谊，擢在此位，官以谏为名，诚宜有以奉其职，使四方后代，知朝廷有直言骨鲠之臣，天子有不僭赏、从谏如流之美。庶岩穴之士，闻而慕之，束带结发，愿进于阙下，而伸其辞说，致吾君于尧舜，熙鸿号于无穷也。若《书》所谓，则大臣宰相之事，非阳子之所宜行也。且阳子之心，将使君人者恶闻其过乎?是启之也。
+或曰：阳子之不求闻而人闻之，不求用而君用之。不得已而起。守其道而不变，何子过之深也?愈曰：自古圣人贤士，皆非有求于闻用也。闵其时之不平，人之不义，得其道不敢独善其身，而必以兼济天下也。孜孜矻矻，死而后已。故禹过家门不入，孔席不暇暖，而墨突不得黔。彼二圣一贤者，岂不知自安佚之为乐哉？诚畏天命而悲人穷也。夫天授人以贤圣才能，岂使自有余而已，诚欲以补其不足者也。耳目之于身也，耳司闻而目司见，听其是非，视其险易，然后身得安焉。圣贤者，时人之耳目也；时人者，圣贤之身也。且阳子之不贤，则将役于贤以奉其上矣；若果贤，则固畏天命而闵人穷也。恶得以自暇逸乎哉?
+或曰：吾闻君子不欲加诸人，而恶讦以为直者。若吾子之论，直则直矣，无乃伤于德而费于辞乎?好尽言以招人过，国武子之所以见杀于齐也，吾子其亦闻乎?愈曰：君子居其位，则思死其官。未得位，则思修其辞以明其道。我将以明道也，非以为直而加入也。且国武子不能得善人，而好尽言于乱国，是以见杀。《传》曰：“惟善人能受尽言。”谓其闻而能改之也。子告我曰：“阳子夫以为有之士也。”今虽不能及已，阳子将不得为善人乎哉?"
+才赋,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到才赋的意思，我先把它记下来
+船坞,baike,baike,True,baike,船坞 用于修造船舶的水工建筑物。布置在修造船厂内，主要是用于船舶修理。由于现代船舶向大型化发展，有时为了方便有利也在坞内造船。船坞可分为干船坞和浮船坞两种。
+摇吻鼓舌,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是偈颂一百零一首  其三三中的诗句
+偈颂一百零一首  其三三 ，宋代， 释慧性 ，摇唇鼓舌，展事投机。千佛出世，不通忏悔。焦巴焦巴，有叶无丫。长天秋水，孤鹜落霞。"
+因小见大,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到因小见大这个成语，我先把它记下来
+一望无涯,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到一望无涯这个成语，我先把它记下来
+碑记,baike,baike,True,baike,碑记: 碑记，指刻在碑上记录人物生平事迹的文体。
+昂昂,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到昂昂的意思，我先把它记下来
+下不来台,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+平明,baike,baike,True,baike,平明: 平明（píng míng），指天刚亮时；公平严明。例句: 平明寻白羽，没在石棱中。
+缺心少肺,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到缺心少肺这个成语，我先把它记下来
+含恨九泉,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+烦杂,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到烦杂的意思，我先把它记下来
+三不知,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+毫发,baike,baike,True,baike,毫发，汉语词汇。拼音是háo fà，释义是毛发；犹丝毫，极少，极细微。
+窒塞,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到窒塞的意思，我先把它记下来
+群英荟萃,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到群英荟萃这个成语，我先把它记下来
+困惫,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到困惫的意思，我先把它记下来
+扶摇而上,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到扶摇而上这个成语，我先把它记下来
+喂奶,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到喂奶的意思，我先把它记下来
+有神论,baike,baike,False,baike,抱歉，小猴答不上来
+吃闭门羹,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+阳世,baike,baike,True,baike,"阳世: 阳世是词语，拼音yáng shì，释义为阳间,人世间，人世。解释: 阳间,人世间，人世。"
+俳谐,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,俳谐 ，唐代， 李商隐 ，短顾何由遂，迟光且莫惊。鸎能歌子夜，蝶解舞宫城。柳讶眉双浅，桃猜粉太轻。年华有情状，吾岂怯平生。
+砰然,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到砰然的意思，我先把它记下来
+凝睇,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到凝睇的意思，我先把它记下来
+必要劳动,baike,baike,False,baike,抱歉，小猴答不上来
+点窜,baike,baike,True,baike,点窜: 点窜，指修整字句；润饰。
+彪炳史册,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+虎帐,baike,baike,True,baike,虎帐: 虎帐是词语，拼音hǔ zhàng，释义为旧时指将军的营帐。
+蛋黄,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,淡黄 ，宋代， 贾似道 ，淡黄生来腿脚白，三样头尖如琥珀。初秋鬭间最迷痴，末后逢强绝口敌。
+望风,baike,baike,True,baike,望风: 望风，汉语词汇。
+锄草,,poem_title_lookup.content_lookup,True,poem_title_lookup.content_lookup,除草 ，唐代， 赵蕃 ，入门空榛芜，半死犹未杭。清霜且零落，纵蔓那得保。奈何刺吾眼，快意思一扫。童来乃钝锸，兀兀日又了。兰枯艾长壮，乱多治则少。君子小人欤，幽忧挂怀抱。
+顽恶,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到顽恶的意思，我先把它记下来
+苟存,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到苟存的意思，我先把它记下来
+白种人,baike,baike,False,baike,抱歉，小猴答不上来
+孤儿寡母,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是德兴邑廨石刻  其二中的诗句
+德兴邑廨石刻  其二 ，唐代， 无名氏 ，我田我地，我桑我梓。只知百里，不知千里。我饥有粮，我渴有水。百里之官，得人生死。孤儿寡妇，一张白纸。入着县门，冤者有理。上官不嗔，民即欢欣。上官不富，民免辛苦。生我父母，养我明府。苗稼萋萋，曷东曷西。父母之乡，天子马蹄。"
+安琪儿,baike,baike,True,baike,安琪儿是在安徒生童话《安琪儿》登场的虚拟角色。
+大祸临头,,poem_sentence_lookup.content_lookup,True,poem_sentence_lookup.content_lookup,"这是庞涓夜走马陵道・正宫中的诗句
+庞涓夜走马陵道・正宫 ，唐代， 无名氏 ，祸临头，谁人救，则我这泼残生眼见的千死千休。谁着你把箭三枝连射三更后，哎！你也合将那传令的人追究。"
+白热,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到白热的意思，我先把它记下来
+歪瓜裂枣,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到歪瓜裂枣这个成语，我先把它记下来
+人烟辐辏,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到人烟辐辏这个成语，我先把它记下来
+出头鸟,baike,baike,True,baike,出头鸟：比喻为凡事好出风头的人，或看不清形势，不懂得在什么时候做什么事的人
+从容镇定,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到从容镇定这个成语，我先把它记下来
+古香古色,zh_dic,zh_dic_idiom_lookup.meaning_lookup,False,zh_dic_idiom_lookup.meaning_lookup,小猴没找到古香古色这个成语，我先把它记下来
+土堆,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到土堆的意思，我先把它记下来
+师公,baike,baike,True,baike,师公: 法教师公，指法教的男巫。
+玛利亚,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,找到多个mǎlìyà，你想查哪一个呢?
+山寨版,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,山寨版的意思是指假冒他人的意思。山寨一词，在粤语中意指没牌照、难进正规渠道的小厂家、小作坊，引申为盗版、剽窃、仿制的同义词。
+华灯高照,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+碟片,zh_dic,zh_dic_word_lookup.meaning_lookup,False,zh_dic_word_lookup.meaning_lookup,小猴没找到碟片的意思，我先把它记下来
+热情好客,zh_dic,no_task,False,no_task,抱歉，小猴没听清。

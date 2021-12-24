@@ -1,0 +1,47 @@
+raw_value, nul_skill,nlu_task,nlu_result_is_valid, nlu_result_tts_task_type,nlu_result_tts_text
+精神损失,zh_dic,zh_dic_word_lookup.meaning_lookup,True, zh_dic_word_lookup.meaning_lookup,精神损失的意思是由于加害人的侵权行为给受害人造成精神痛苦或使其精神利益受到损害。raw_value,nlu_skill,nlu_task,nlu_result_is_valid,nlu_result_tts_task_type,nlu_result_tts_text
+我的属相是马,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+歌手李娜的代表作,baike,baike,False,baike,抱歉，小猴答不上来
+故宫的面积有多大,baike,baike,True,baike,72万平方米 （建筑面积约15万平方米）
+介绍一下姚明,baike,baike,True,baike,"姚明（Yao Ming），男，汉族，无党派人士，1980年9月12日出生于上海市徐汇区，祖籍江苏省苏州市吴江区震泽镇，前中国职业篮球运动员，司职中锋，现任亚洲篮球联合会主席、中国篮球协会主席、中职联公司董事长兼总经理，十三届全国青联副主席，改革先锋奖章获得者。 1998年4月，姚明入选王非执教的国家队，开始篮球生涯。2001夺得CBA常规赛MVP，2002年夺得CBA总冠军以及总决赛MVP，分别3次当选CBA篮板王以及盖帽王，2次当选CBA扣篮王。在2002年NBA选秀中，他以状元秀身份被NBA的休斯敦火箭队选中，2003-09年连续6个赛季（生涯共8次）入选NBA全明星阵容，2次入选NBA最佳阵容二阵，3次入选NBA最佳阵容三阵。2009年，姚明收购上海男篮，成为上海大鲨鱼篮球俱乐部老板。2011年7月20日，姚明宣布退役。 2013年，姚明当选为第十二届全国政协委员。2015年2月10日，姚明正式成为北京申办冬奥会形象大使之一。2016年4月4日，姚明正式入选2016年奈·史密斯篮球名人纪念堂，成为首位获此殊荣的中国人；10月，姚明成为中国""火星大使""；11月，当选CBA公司副董事长。 2017年10月20日，姚明已将上海哔哩哔哩俱乐部全部股权转让。2018年9月，荣获第十届“中华慈善奖”慈善楷模奖项。2019年10月28日，胡润研究院发布《2019胡润80后白手起家富豪榜》，姚明以22亿元排名第48。"
+苏轼是唐朝的还是元朝的,baike,baike,True,baike,苏轼是北宋人 苏轼（1037年1月8日—1101年8月24日），字子瞻，又字和仲，号东坡居士，世称苏东坡、苏仙。汉族，北宋眉州眉山（今属四川省眉山市）人，祖籍河北栾城，北宋著名文学家、书法家、画家。
+苏轼写的是赤壁怀古还是游泳,,poem_author&title_lookup.content_lookup,True,poem_author&title_lookup.content_lookup,"苏轼的念奴娇·赤壁怀古：念奴娇·赤壁怀古， 宋代， 苏轼 ，大江东去，浪淘尽，千古风流人物。故垒西边，人道是，三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰。
+遥想公瑾当年，小乔初嫁了，雄姿英发。羽扇纶巾，谈笑间，樯橹灰飞烟灭。故国神游，多情应笑我，早生华发。人生如梦，一尊还酹江月。"
+总教官是什么,baike,baike,False,baike,抱歉，小猴答不上来
+蛇是脊椎动物还是无脊椎,baike,baike,True,baike,蛇[蛇亚目动物的统称]:亚门: 脊椎动物亚门。 蛇是四肢退化的爬行动物的总称，属于爬行纲蛇目。
+来一首冬眠,,poem_title_lookup.content_lookup,False,poem_title_lookup.content_lookup,小猴没有找到相关的诗词信息
+五湖指哪里,baike,baike,True,baike,五湖: 近代一般以洞庭湖、鄱阳湖、太湖、巢湖、洪泽湖为“五湖”。一般包括: 洞庭、鄱阳、太湖、巢湖、洪泽等。
+涂鸦模板,baike,baike,True,baike,涂鸦[汉语词语]: “涂鸦”英文是“GRAFFITI”，是一种视觉字体设计艺术，涂鸦内容包括很多：主要以变形英文字体为主，其次有3D写实、人物写实、各种场景写实 、卡通人物等等，配上艳丽的颜色让人产生强烈的视觉效果的和宣传效果。
+猴子的猴子的尸体,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+搜储毅,baike,baike,True,baike,储毅：艺名阿毅，知名主持人、歌手、演员，祖籍安徽，1995年踏入娱乐圈，从歌手到主持再到演戏，于2005年创办阿毅文化工作室，承办和主持过几千场大大小小各种各样的娱乐晚会和商业活动，经过了十多年的舞台磨练，如今的他已算得上是位全能的艺人。
+中国江西的地理位置,baike,baike,True,baike,中国地方:地理位置: 日本本州岛西部。 日本的地域名：中国地区（日文：中国地方，平假名：ちゅうごくちほう），位于日本本州岛西部。
+雪糕,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,雪糕的意思是一种冷食，质地类似冰激凌而成块状。
+馒头,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,馒头的意思是用发面蒸熟的一种食品，形状多为半球体，不带馅儿。有的地区也称带馅儿的为馒头，如糖馒头、肉馒头。
+织布,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,找到多个zhībù，你想查哪一个呢?
+比如洋葱西红柿,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+皮卡皮卡,baike,baike,False,baike,抱歉，小猴答不上来
+写字人钟在哪个殿,baike,baike,False,baike,抱歉，小猴答不上来
+水星和土星哪个更大,baike,baike,True,baike,水星 < 土星 水星直径:4878km 土星直径:120540㎞
+虞书欣,baike,baike,False,baike,抱歉，小猴答不上来
+一念永恒,zh_dic,no_task,False,no_task,抱歉，小猴没理解。
+旋转木马,zh_dic,zh_dic_word_lookup.meaning_lookup,True,zh_dic_word_lookup.meaning_lookup,旋转木马的意思是游乐场机动游戏的一种，即旋转大平台上有装饰成木马且上下移动的座位供游客乘坐。最早记录的旋转木马出现于拜占庭帝国时期。约1860年欧洲出现第一个以蒸汽推动的旋转木马。如今在各大小游戏场、商场等地方皆有各式旋转木马。
+小英,baike,baike,True,baike,小英: 小英是电视剧《民国恩仇录》中的角色，由张乐饰演。
+塔尔塔罗斯,baike,baike,True,baike,塔尔塔罗斯: 塔尔塔罗斯，是希腊神话中“地狱”的代名词。
+赛文加,baike,baike,True,baike,赛文加: 光之国给予无法变身的诸星团使用的道具——怪兽球中的机械怪兽。
+捷德,baike,baike,True,baike,捷德: 捷德集团是一家总部设在德国慕尼黑的国际领先技术供应商。
+鞠婧祎,baike,baike,False,baike,抱歉，小猴答不上来
+杰斯提斯奥特曼,baike,baike,False,baike,抱歉，小猴答不上来
+青春期一般在什么时候,baike,baike,False,baike,抱歉，小猴答不上来
+水浒传主人公是谁,baike,baike,False,baike,抱歉，小猴答不上来
+小小公主的歌,functional,no_task,False,no_task,抱歉，小猴没理解。
+水仙球,baike,baike,False,baike,抱歉，小猴答不上来
+蛇妖,baike,baike,False,baike,抱歉，小猴答不上来
+VIVOX六十系列,baike,baike,True,baike,六十: 《六十》是宋代诗人蔡戡的作品之一。
+刘德华,baike,baike,False,baike,抱歉，小猴答不上来
+林语堂的作品,baike,baike,True,baike,林语堂:代表作品: 《京华烟云》《吾国与吾民》《生活的艺术》《老子的智慧》。 林语堂（1895年10月10日-1976年3月26日），福建龙溪（今漳州）人，原名和乐，后改玉堂，又改语堂，中国现代著名作家、学者、翻译家、语言学家，新道家代表人物。
+周杰伦的歌曲,baike,baike,False,baike,抱歉，小猴答不上来
+梵高的代表作,baike,baike,False,baike,抱歉，小猴答不上来
+巴金的代表作,baike,baike,True,baike,《家》《寒夜》《随想录》
+搞笑的动作,chat,chat.small_talk,False,chat.small_talk,我们先不要聊天啦，好好学习吧！
+唐代衣,baike,baike,False,baike,抱歉，小猴答不上来
+水立方的面积,knowledge,no_task,False,no_task,抱歉，小猴没听懂。

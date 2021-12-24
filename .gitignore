@@ -1,0 +1,6 @@
+/venv/
+/mobileperf.egg-info/
+/results/
+/logs/
+/mobileperf/custom/input/
+/mobileperf/custom/output/

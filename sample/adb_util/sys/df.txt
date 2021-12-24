@@ -1,0 +1,17 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/root             1.7G  1.7G     0 100% /
+tmpfs                 1.7G  1.0M  1.7G   1% /dev
+tmpfs                 1.7G     0  1.7G   0% /mnt
+/dev/block/dm-1       401M  401M     0 100% /vendor
+/dev/block/dm-2        71M   71M     0 100% /odm
+/dev/block/dm-3       235M  235M     0 100% /version
+/dev/block/dm-4       748M  748M     0 100% /product
+/dev/block/dm-5       6.7M  6.7M     0 100% /cust
+/dev/block/dm-6       890M  890M     0 100% /preload
+/dev/block/dm-7        88M   88M     0 100% /preas
+/dev/block/dm-8       8.0K  8.0K     0 100% /preavs
+none                  1.7G     0  1.7G   0% /mnt/update_engine
+/dev/block/mmcblk0p70  52G  7.1G   45G  14% /data
+/dev/block/mmcblk0p60  97M   96K   94M   1% /cache
+none                  1.7G     0  1.7G   0% /sys/fs/cgroup
+/data/media            52G  7.1G   45G  14% /storage/emulated

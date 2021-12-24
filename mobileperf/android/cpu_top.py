@@ -8,15 +8,15 @@
 
 @contact:    390125133@qq.com
 '''
+import configparser
 import csv
-import os
 import re
 import os,sys
 import threading
 import time
 import traceback
 
-from datetime import datetime
+from mobileperf.common import tool
 
 BaseDir=os.path.dirname(__file__)
 sys.path.append(os.path.join(BaseDir,'../..'))
@@ -338,6 +338,7 @@ class CpuCollector(object):
                 csv.writer(df, lineterminator='\n').writerow(cpu_title)
         except RuntimeError as e:
             logger.error(e)
+
         while not self._stop_event.is_set() and time.time() < end_time:
             try:
                 logger.debug("---------------cpuinfos, into _collect_package_cpu_thread loop thread is : " + str(threading.current_thread().name))
@@ -412,10 +413,21 @@ class CpuMonitor(object):
 
 
 if __name__ == "__main__":
+    conf_file = tool.get_root_path() + 'conf/dev.ini'
+    print("conf_file = ",conf_file)
+    cf = configparser.ConfigParser()
+    cf.read(conf_file, encoding='UTF-8')
+    target_device_sn= cf.get('device_info', 'dev1')
+    genie_package_list_v1= cf.get('package_list',
+           'genie_package_list_v1').split(',')
+
+    print('genie_package_list_v1[5] = ', genie_package_list_v1[5])  #com.tal.genie.voice
     # RuntimeData.package_save_path = "/Users/look/Desktop/project/mobileperf-mac/results/com.yunos.tv.alitvasr/2019_03_25_22_07_57/"
     # monitor = CpuMonitor("O77DFAWSSGV4Z5AU", ["com.yunos.tv.alitvasr", "com.alibaba.ailabs.genie.contacts"], 5)
     # monitor = CpuMonitor("O77DFAWSSGV4Z5AU", ["com.yunos.tv.alitvasr"], 5)
-    monitor = CpuMonitor("85I7UO4PFQCINJL7",["com.yunos.tv.alitvasr"], 5)
+
+    # monitor = CpuMonitor("85I7UO4PFQCINJL7",["com.yunos.tv.alitvasr"], 5)
+    monitor = CpuMonitor(target_device_sn,genie_package_list_v1, 5)
     monitor.start(TimeUtils.getCurrentTimeUnderline())
     time.sleep(180)
     monitor.stop()
